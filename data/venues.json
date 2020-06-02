@@ -1,0 +1,5975 @@
+[
+    {
+        "id": 4747,
+        "name": "Abbott Memorial Alumni Stadium",
+        "capacity": 10000,
+        "grass": null,
+        "city": "Tuskegee",
+        "state": "AL",
+        "zip": null,
+        "country_code": "US",
+        "location": null,
+        "elevation": "122.8",
+        "year_constructed": 1925,
+        "dome": false,
+        "timezone": null
+    },
+    {
+        "id": 3599,
+        "name": "Ace W. Mumford Stadium",
+        "capacity": 28500,
+        "grass": false,
+        "city": "Baton Rouge",
+        "state": "LA",
+        "zip": "70807",
+        "country_code": "US",
+        "location": {
+            "x": 30.5221461,
+            "y": -91.1896087
+        },
+        "elevation": "20.24213219",
+        "year_constructed": 1928,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3601,
+        "name": "Aggie Memorial Stadium",
+        "capacity": 30343,
+        "grass": false,
+        "city": "Las Cruces",
+        "state": "NM",
+        "zip": "88003",
+        "country_code": "US",
+        "location": {
+            "x": 32.2796202,
+            "y": -106.7411148
+        },
+        "elevation": "1208.201294",
+        "year_constructed": 1978,
+        "dome": false,
+        "timezone": "America/Denver"
+    },
+    {
+        "id": 3602,
+        "name": "Aggie Stadium",
+        "capacity": 10849,
+        "grass": false,
+        "city": "Davis",
+        "state": "CA",
+        "zip": "95616",
+        "country_code": "US",
+        "location": {
+            "x": 38.5365266,
+            "y": -121.7627936
+        },
+        "elevation": "11.3825922",
+        "year_constructed": 2007,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 3603,
+        "name": "Aggie Stadium",
+        "capacity": 21500,
+        "grass": true,
+        "city": "Greensboro",
+        "state": "NC",
+        "zip": "27411",
+        "country_code": "US",
+        "location": {
+            "x": 36.0814337,
+            "y": -79.7700391
+        },
+        "elevation": "235.1224518",
+        "year_constructed": 1981,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3604,
+        "name": "Alamodome",
+        "capacity": 65000,
+        "grass": false,
+        "city": "San Antonio",
+        "state": "TX",
+        "zip": "78299",
+        "country_code": "US",
+        "location": {
+            "x": 29.4169834,
+            "y": -98.4788143
+        },
+        "elevation": "201.5526886",
+        "year_constructed": 1993,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3653,
+        "name": "Albertsons Stadium",
+        "capacity": 36387,
+        "grass": false,
+        "city": "Boise",
+        "state": "ID",
+        "zip": "83725",
+        "country_code": "US",
+        "location": {
+            "x": 43.6028839,
+            "y": -116.1958882
+        },
+        "elevation": "823.2221069",
+        "year_constructed": 1970,
+        "dome": false,
+        "timezone": "America/Boise"
+    },
+    {
+        "id": 3605,
+        "name": "Alerus Center",
+        "capacity": 12283,
+        "grass": false,
+        "city": "Grand Forks",
+        "state": "ND",
+        "zip": "58201",
+        "country_code": "US",
+        "location": {
+            "x": 47.910622,
+            "y": -97.090996
+        },
+        "elevation": "255.2472076",
+        "year_constructed": 2001,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 1027,
+        "name": "Alex G. Spanos Stadium",
+        "capacity": 11075,
+        "grass": true,
+        "city": "San Luis Obispo",
+        "state": "CA",
+        "zip": "93405",
+        "country_code": "US",
+        "location": {
+            "x": 35.2984123,
+            "y": -120.6650005
+        },
+        "elevation": "84.6832428",
+        "year_constructed": 2006,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 3607,
+        "name": "Alfond Stadium",
+        "capacity": 10000,
+        "grass": false,
+        "city": "Orono",
+        "state": "ME",
+        "zip": "4469 ",
+        "country_code": "US",
+        "location": {
+            "x": 44.905128,
+            "y": -68.6724718
+        },
+        "elevation": "35.4817543",
+        "year_constructed": 1998,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 6501,
+        "name": "Allegiant Stadium",
+        "capacity": 65000,
+        "grass": null,
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": null,
+        "country_code": "US",
+        "location": null,
+        "elevation": null,
+        "year_constructed": null,
+        "dome": false,
+        "timezone": null
+    },
+    {
+        "id": 3609,
+        "name": "Allgood-Bailey Stadium",
+        "capacity": 8000,
+        "grass": true,
+        "city": "Rolla",
+        "state": "MO",
+        "zip": "65401",
+        "country_code": "US",
+        "location": {
+            "x": 37.95037,
+            "y": -91.780444
+        },
+        "elevation": "336.1",
+        "year_constructed": 1967,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 5363,
+        "name": "Allianz Stadium",
+        "capacity": 45500,
+        "grass": true,
+        "city": "Sydney",
+        "state": "NSW",
+        "zip": "2021 ",
+        "country_code": "AU",
+        "location": {
+            "x": -33.888907,
+            "y": 151.225343
+        },
+        "elevation": "42.8",
+        "year_constructed": 1988,
+        "dome": false,
+        "timezone": "Australia/Sydney"
+    },
+    {
+        "id": 3610,
+        "name": "Aloha Stadium",
+        "capacity": 50000,
+        "grass": false,
+        "city": "Honolulu",
+        "state": "HI",
+        "zip": "96818",
+        "country_code": "US",
+        "location": {
+            "x": 21.3728014,
+            "y": -157.9299645
+        },
+        "elevation": "10.26500511",
+        "year_constructed": 1975,
+        "dome": false,
+        "timezone": "Pacific/Honolulu"
+    },
+    {
+        "id": 3597,
+        "name": "Alumni Memorial Field",
+        "capacity": 10000,
+        "grass": true,
+        "city": "Lexington",
+        "state": "VA",
+        "zip": "24450",
+        "country_code": "US",
+        "location": {
+            "x": 37.788983,
+            "y": -79.43505
+        },
+        "elevation": "294.958252",
+        "year_constructed": 1962,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3613,
+        "name": "Alumni Stadium",
+        "capacity": 7000,
+        "grass": false,
+        "city": "Dover",
+        "state": "DE",
+        "zip": "19901",
+        "country_code": "US",
+        "location": {
+            "x": 39.189375,
+            "y": -75.5433185
+        },
+        "elevation": "10.95275307",
+        "year_constructed": 1980,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3615,
+        "name": "Alumni Stadium",
+        "capacity": 44500,
+        "grass": false,
+        "city": "Chestnut Hill",
+        "state": "MA",
+        "zip": "2467 ",
+        "country_code": "US",
+        "location": {
+            "x": 42.335104,
+            "y": -71.1664413
+        },
+        "elevation": "39.82634354",
+        "year_constructed": 1957,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3616,
+        "name": "Amon G. Carter Stadium",
+        "capacity": 45000,
+        "grass": false,
+        "city": "Fort Worth",
+        "state": "TX",
+        "zip": "76129",
+        "country_code": "US",
+        "location": {
+            "x": 32.7096604,
+            "y": -97.3680835
+        },
+        "elevation": "185.4387054",
+        "year_constructed": 1929,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3617,
+        "name": "Andy Kerr Stadium",
+        "capacity": 10221,
+        "grass": false,
+        "city": "Hamilton",
+        "state": "NY",
+        "zip": "13346",
+        "country_code": "US",
+        "location": {
+            "x": 42.8168991,
+            "y": -75.5452721
+        },
+        "elevation": "337.1443787",
+        "year_constructed": 1966,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 5221,
+        "name": "ANZ Stadium",
+        "capacity": 83500,
+        "grass": true,
+        "city": "Sydney",
+        "state": "",
+        "zip": "2127 ",
+        "country_code": "AU",
+        "location": {
+            "x": -33.846991,
+            "y": 151.063435
+        },
+        "elevation": "9.444999695",
+        "year_constructed": 1999,
+        "dome": false,
+        "timezone": "Australia/Sydney"
+    },
+    {
+        "id": 3825,
+        "name": "Apogee Stadium",
+        "capacity": 30850,
+        "grass": false,
+        "city": "Denton",
+        "state": "TX",
+        "zip": "76210",
+        "country_code": "US",
+        "location": {
+            "x": 33.203899,
+            "y": -97.159245
+        },
+        "elevation": "198.6871948",
+        "year_constructed": 2011,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3619,
+        "name": "Arizona Stadium",
+        "capacity": 56029,
+        "grass": false,
+        "city": "Tucson",
+        "state": "AZ",
+        "zip": "85721",
+        "country_code": "US",
+        "location": {
+            "x": 32.2288054,
+            "y": -110.9488677
+        },
+        "elevation": "742.1530151",
+        "year_constructed": 1928,
+        "dome": false,
+        "timezone": "America/Phoenix"
+    },
+    {
+        "id": 3620,
+        "name": "Armstrong Stadium",
+        "capacity": 17000,
+        "grass": false,
+        "city": "Hampton",
+        "state": "VA",
+        "zip": "23669",
+        "country_code": "US",
+        "location": {
+            "x": 37.0200894,
+            "y": -76.3331555
+        },
+        "elevation": "2.574624538",
+        "year_constructed": 1928,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3622,
+        "name": "Arrowhead Stadium",
+        "capacity": 76416,
+        "grass": true,
+        "city": "Kansas City",
+        "state": "MO",
+        "zip": "64129",
+        "country_code": "US",
+        "location": {
+            "x": 39.048889,
+            "y": -94.483889
+        },
+        "elevation": "256.798584",
+        "year_constructed": 1972,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3623,
+        "name": "Arthur J. Rooney Athletic Field",
+        "capacity": 2200,
+        "grass": false,
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15282",
+        "country_code": "US",
+        "location": {
+            "x": 40.4355808,
+            "y": -79.9900263
+        },
+        "elevation": "269.4302979",
+        "year_constructed": 1993,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3624,
+        "name": "Arute Field",
+        "capacity": 3500,
+        "grass": false,
+        "city": "New Britain",
+        "state": "CT",
+        "zip": "6053 ",
+        "country_code": "US",
+        "location": {
+            "x": 41.6950591,
+            "y": -72.7616197
+        },
+        "elevation": "41.29866409",
+        "year_constructed": 1969,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3687,
+        "name": "AT&T Stadium",
+        "capacity": 100000,
+        "grass": false,
+        "city": "Arlington",
+        "state": "TX",
+        "zip": "76011",
+        "country_code": "US",
+        "location": {
+            "x": 32.747778,
+            "y": -97.092778
+        },
+        "elevation": "172.5047302",
+        "year_constructed": 2009,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3626,
+        "name": "Autzen Stadium",
+        "capacity": 54000,
+        "grass": false,
+        "city": "Eugene",
+        "state": "OR",
+        "zip": "97401",
+        "country_code": "US",
+        "location": {
+            "x": 44.0582712,
+            "y": -123.0684883
+        },
+        "elevation": "127.4198303",
+        "year_constructed": 1967,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 3504,
+        "name": "Aviva Stadium",
+        "capacity": 51700,
+        "grass": true,
+        "city": "Dublin",
+        "state": "",
+        "zip": null,
+        "country_code": "IE",
+        "location": {
+            "x": 53.33523,
+            "y": -6.228447
+        },
+        "elevation": "2.264276505",
+        "year_constructed": 2010,
+        "dome": false,
+        "timezone": null
+    },
+    {
+        "id": 3627,
+        "name": "Bailey Memorial Stadium",
+        "capacity": 6500,
+        "grass": true,
+        "city": "Clinton",
+        "state": "SC",
+        "zip": "29325",
+        "country_code": "US",
+        "location": {
+            "x": 34.46158,
+            "y": -81.861368
+        },
+        "elevation": "194.1601868",
+        "year_constructed": 2002,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3628,
+        "name": "Bank of America Stadium",
+        "capacity": 75412,
+        "grass": true,
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28202",
+        "country_code": "US",
+        "location": {
+            "x": 35.225833,
+            "y": -80.852778
+        },
+        "elevation": "220.8777466",
+        "year_constructed": 1996,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3629,
+        "name": "Barker-Lane Stadium",
+        "capacity": 5000,
+        "grass": false,
+        "city": "Buies Creek",
+        "state": "NC",
+        "zip": "27506",
+        "country_code": "US",
+        "location": {
+            "x": 35.4047689,
+            "y": -78.7424842
+        },
+        "elevation": "56.51401138",
+        "year_constructed": 2008,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3630,
+        "name": "BB&T Field",
+        "capacity": 31500,
+        "grass": false,
+        "city": "Winston-Salem",
+        "state": "NC",
+        "zip": "27105",
+        "country_code": "US",
+        "location": {
+            "x": 36.1305507,
+            "y": -80.2545851
+        },
+        "elevation": "283.548584",
+        "year_constructed": 1968,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3631,
+        "name": "BBVA Compass Stadium",
+        "capacity": 22039,
+        "grass": true,
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77003",
+        "country_code": "US",
+        "location": {
+            "x": 29.7521988,
+            "y": -95.3524146
+        },
+        "elevation": "13.68128395",
+        "year_constructed": 2012,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3632,
+        "name": "Beaver Stadium",
+        "capacity": 106572,
+        "grass": false,
+        "city": "University Park",
+        "state": "PA",
+        "zip": "16802",
+        "country_code": "US",
+        "location": {
+            "x": 40.8121958,
+            "y": -77.8561023
+        },
+        "elevation": "354.1551514",
+        "year_constructed": 1960,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3634,
+        "name": "Ben Hill Griffin Stadium",
+        "capacity": 88548,
+        "grass": true,
+        "city": "Gainesville",
+        "state": "FL",
+        "zip": "32653",
+        "country_code": "US",
+        "location": {
+            "x": 29.6499357,
+            "y": -82.3485788
+        },
+        "elevation": "44.97250748",
+        "year_constructed": 1930,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 4729,
+        "name": "Benson Field at Yulman Stadium",
+        "capacity": 30000,
+        "grass": false,
+        "city": "New Orleans",
+        "state": "LA",
+        "zip": "70118",
+        "country_code": "US",
+        "location": {
+            "x": 29.944616,
+            "y": -90.116692
+        },
+        "elevation": "0.0000000000000000000000000000000000000118",
+        "year_constructed": 2014,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3636,
+        "name": "Bill Snyder Family Football Stadium",
+        "capacity": 50000,
+        "grass": false,
+        "city": "Manhattan",
+        "state": "KS",
+        "zip": "66502",
+        "country_code": "US",
+        "location": {
+            "x": 39.2020096,
+            "y": -96.5938395
+        },
+        "elevation": "328.0574646",
+        "year_constructed": 1968,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3639,
+        "name": "Blackshear Stadium",
+        "capacity": 15000,
+        "grass": false,
+        "city": "Prairie View",
+        "state": "TX",
+        "zip": "77445",
+        "country_code": "US",
+        "location": {
+            "x": 30.091128,
+            "y": -95.994482
+        },
+        "elevation": "78.4",
+        "year_constructed": 2016,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3841,
+        "name": "Blaik Field at Michie Stadium",
+        "capacity": 38000,
+        "grass": false,
+        "city": "West Point",
+        "state": "NY",
+        "zip": "10996",
+        "country_code": "US",
+        "location": {
+            "x": 41.3874924,
+            "y": -73.9640891
+        },
+        "elevation": "99.21277618",
+        "year_constructed": 1924,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3697,
+        "name": "Bobby Bowden Field at Doak Campbell Stadium",
+        "capacity": 79560,
+        "grass": false,
+        "city": "Tallahassee",
+        "state": "FL",
+        "zip": "32306",
+        "country_code": "US",
+        "location": {
+            "x": 30.4381692,
+            "y": -84.3044032
+        },
+        "elevation": "19.55942535",
+        "year_constructed": 1950,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 721,
+        "name": "Bobby Dodd Stadium at Historic Grant Field",
+        "capacity": 55000,
+        "grass": true,
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30332",
+        "country_code": "US",
+        "location": {
+            "x": 33.7724449,
+            "y": -84.3928054
+        },
+        "elevation": "279.300415",
+        "year_constructed": 1913,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3643,
+        "name": "Bobcat Stadium",
+        "capacity": 19000,
+        "grass": false,
+        "city": "Bozeman",
+        "state": "MT",
+        "zip": "59718",
+        "country_code": "US",
+        "location": {
+            "x": 45.659048,
+            "y": -111.049547
+        },
+        "elevation": "1507.508667",
+        "year_constructed": 1973,
+        "dome": false,
+        "timezone": "America/Denver"
+    },
+    {
+        "id": 4419,
+        "name": "Bob Ford Field",
+        "capacity": 8500,
+        "grass": false,
+        "city": "Albany",
+        "state": "NY",
+        "zip": "12222",
+        "country_code": "US",
+        "location": {
+            "x": 42.6808062,
+            "y": -73.8272841
+        },
+        "elevation": "64.42764282",
+        "year_constructed": 2013,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3646,
+        "name": "Boone Pickens Stadium",
+        "capacity": 60218,
+        "grass": false,
+        "city": "Stillwater",
+        "state": "OK",
+        "zip": "74078",
+        "country_code": "US",
+        "location": {
+            "x": 36.125673,
+            "y": -97.066513
+        },
+        "elevation": "276.4808655",
+        "year_constructed": 1919,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3647,
+        "name": "Bowers Stadium",
+        "capacity": 14000,
+        "grass": false,
+        "city": "Huntsville",
+        "state": "TX",
+        "zip": "77340",
+        "country_code": "US",
+        "location": {
+            "x": 30.713926,
+            "y": -95.5419802
+        },
+        "elevation": "127.6225204",
+        "year_constructed": 1986,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3649,
+        "name": "Bowman Gray Stadium",
+        "capacity": 17000,
+        "grass": true,
+        "city": "Winston-Salem",
+        "state": "NC",
+        "zip": "27107",
+        "country_code": "US",
+        "location": {
+            "x": 36.083372,
+            "y": -80.222037
+        },
+        "elevation": "242.5",
+        "year_constructed": 1937,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3650,
+        "name": "Bragg Memorial Stadium",
+        "capacity": 25500,
+        "grass": false,
+        "city": "Tallahassee",
+        "state": "FL",
+        "zip": "32307",
+        "country_code": "US",
+        "location": {
+            "x": 30.4261632,
+            "y": -84.2923095
+        },
+        "elevation": "31.18483925",
+        "year_constructed": 1957,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 4133,
+        "name": "Braly Municipal Stadium",
+        "capacity": 14215,
+        "grass": false,
+        "city": "Florence",
+        "state": "AL",
+        "zip": "35630",
+        "country_code": "US",
+        "location": {
+            "x": 34.810914,
+            "y": -87.670587
+        },
+        "elevation": "172.3",
+        "year_constructed": 1949,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3651,
+        "name": "Bridgeforth Stadium",
+        "capacity": 24878,
+        "grass": false,
+        "city": "Harrisonburg",
+        "state": "VA",
+        "zip": "22807",
+        "country_code": "US",
+        "location": {
+            "x": 38.4352919,
+            "y": -78.8729349
+        },
+        "elevation": "399.303009",
+        "year_constructed": 1975,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3764,
+        "name": "Brigham Field at Huskie Stadium",
+        "capacity": 23595,
+        "grass": false,
+        "city": "DeKalb",
+        "state": "IL",
+        "zip": "60115",
+        "country_code": "US",
+        "location": {
+            "x": 41.9339586,
+            "y": -88.7778357
+        },
+        "elevation": "267.4530029",
+        "year_constructed": 1965,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3652,
+        "name": "Bright House Networks Stadium",
+        "capacity": 44206,
+        "grass": false,
+        "city": "Orlando",
+        "state": "FL",
+        "zip": "32816",
+        "country_code": "US",
+        "location": {
+            "x": 28.6079765,
+            "y": -81.1927233
+        },
+        "elevation": "20.94113731",
+        "year_constructed": 2007,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 4617,
+        "name": "Bristol Motor Speedway",
+        "capacity": 162000,
+        "grass": true,
+        "city": "Briston",
+        "state": "TN",
+        "zip": "37620",
+        "country_code": "US",
+        "location": {
+            "x": 36.516,
+            "y": -82.257
+        },
+        "elevation": "456.8201294",
+        "year_constructed": 1961,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3654,
+        "name": "Brooks Stadium",
+        "capacity": 9214,
+        "grass": false,
+        "city": "Conway",
+        "state": "SC",
+        "zip": "29528",
+        "country_code": "US",
+        "location": {
+            "x": 33.7928506,
+            "y": -79.0166946
+        },
+        "elevation": "13.74894905",
+        "year_constructed": 2003,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3655,
+        "name": "Brown Field",
+        "capacity": 5000,
+        "grass": false,
+        "city": "Valparaiso",
+        "state": "IN",
+        "zip": "46383",
+        "country_code": "US",
+        "location": {
+            "x": 41.465642,
+            "y": -87.0479446
+        },
+        "elevation": "244.6367645",
+        "year_constructed": 1919,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3656,
+        "name": "Brown Stadium",
+        "capacity": 20000,
+        "grass": false,
+        "city": "Providence",
+        "state": "RI",
+        "zip": "2912 ",
+        "country_code": "US",
+        "location": {
+            "x": 41.842114,
+            "y": -71.3939416
+        },
+        "elevation": "33.87348557",
+        "year_constructed": 1925,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3657,
+        "name": "Bryant Denny Stadium",
+        "capacity": 101821,
+        "grass": true,
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "zip": "35487",
+        "country_code": "US",
+        "location": {
+            "x": 33.2082752,
+            "y": -87.5503836
+        },
+        "elevation": "70.05136108",
+        "year_constructed": 1929,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3658,
+        "name": "Buccaneer Field",
+        "capacity": 4000,
+        "grass": false,
+        "city": "North Charleston",
+        "state": "SC",
+        "zip": "29406",
+        "country_code": "US",
+        "location": {
+            "x": 32.9810239,
+            "y": -80.0659664
+        },
+        "elevation": "12.6744318",
+        "year_constructed": 1970,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3661,
+        "name": "Bulldog Stadium",
+        "capacity": 4400,
+        "grass": false,
+        "city": "Smithfield",
+        "state": "RI",
+        "zip": "93710",
+        "country_code": "US",
+        "location": {
+            "x": 41.924206,
+            "y": -71.5385124
+        },
+        "elevation": "124.471344",
+        "year_constructed": 1999,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3660,
+        "name": "Bulldog Stadium",
+        "capacity": 41031,
+        "grass": false,
+        "city": "Fresno",
+        "state": "CA",
+        "zip": "93740",
+        "country_code": "US",
+        "location": {
+            "x": 36.8143527,
+            "y": -119.7580092
+        },
+        "elevation": "102.564064",
+        "year_constructed": 1980,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 3664,
+        "name": "Butler Bowl",
+        "capacity": 5500,
+        "grass": false,
+        "city": "Indianapolis",
+        "state": "IN",
+        "zip": "46721",
+        "country_code": "US",
+        "location": {
+            "x": 39.8444694,
+            "y": -86.1659242
+        },
+        "elevation": "221.1980591",
+        "year_constructed": 1928,
+        "dome": false,
+        "timezone": "America/Indiana/Indianapolis"
+    },
+    {
+        "id": 3666,
+        "name": "Cajun Field",
+        "capacity": 36900,
+        "grass": false,
+        "city": "Lafayette",
+        "state": "LA",
+        "zip": "70506",
+        "country_code": "US",
+        "location": {
+            "x": 30.2158434,
+            "y": -92.0417371
+        },
+        "elevation": "3.556508303",
+        "year_constructed": 1971,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3831,
+        "name": "California Memorial Stadium",
+        "capacity": 62717,
+        "grass": false,
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94720",
+        "country_code": "US",
+        "location": {
+            "x": 37.8710434,
+            "y": -122.2507729
+        },
+        "elevation": "125.3108063",
+        "year_constructed": 1923,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 4013,
+        "name": "Camping World Stadium",
+        "capacity": 65000,
+        "grass": false,
+        "city": "Orlando",
+        "state": "FL",
+        "zip": "32805",
+        "country_code": "US",
+        "location": {
+            "x": 28.539167,
+            "y": -81.402778
+        },
+        "elevation": "31.37226868",
+        "year_constructed": 1946,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 347,
+        "name": "Camp Randall Stadium",
+        "capacity": 80321,
+        "grass": false,
+        "city": "Madison",
+        "state": "WI",
+        "zip": "53711",
+        "country_code": "US",
+        "location": {
+            "x": 43.06994,
+            "y": -89.4126943
+        },
+        "elevation": "263.604126",
+        "year_constructed": 1917,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3668,
+        "name": "Campus Field",
+        "capacity": 4000,
+        "grass": false,
+        "city": "Fairfield",
+        "state": "CT",
+        "zip": "6825 ",
+        "country_code": "US",
+        "location": {
+            "x": 41.2212488,
+            "y": -73.2417431
+        },
+        "elevation": "82.02420044",
+        "year_constructed": 1993,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 5388,
+        "name": "Canvas Stadium",
+        "capacity": 41000,
+        "grass": false,
+        "city": "Fort Collins",
+        "state": "CO",
+        "zip": "80521",
+        "country_code": "US",
+        "location": {
+            "x": 40.570015,
+            "y": -105.088435
+        },
+        "elevation": "1528.4",
+        "year_constructed": 2017,
+        "dome": false,
+        "timezone": "America/Denver"
+    },
+    {
+        "id": 1964,
+        "name": "Carrier Dome",
+        "capacity": 49250,
+        "grass": false,
+        "city": "Syracuse",
+        "state": "NY",
+        "zip": "13244",
+        "country_code": "US",
+        "location": {
+            "x": 43.0362269,
+            "y": -76.1363161
+        },
+        "elevation": "162.6989746",
+        "year_constructed": 1980,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3670,
+        "name": "Carter-Finley Stadium",
+        "capacity": 57583,
+        "grass": false,
+        "city": "Raleigh",
+        "state": "NC",
+        "zip": "27695",
+        "country_code": "US",
+        "location": {
+            "x": 35.8008001,
+            "y": -78.7195655
+        },
+        "elevation": "117.0089951",
+        "year_constructed": 1966,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3671,
+        "name": "Case Field",
+        "capacity": 2400,
+        "grass": false,
+        "city": "Cleveland",
+        "state": "OH",
+        "zip": "85099",
+        "country_code": "US",
+        "location": {
+            "x": 41.513447,
+            "y": -81.603634
+        },
+        "elevation": "-81.603639",
+        "year_constructed": 2005,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3625,
+        "name": "Centennial Bank Stadium",
+        "capacity": 30964,
+        "grass": false,
+        "city": "Jonesboro",
+        "state": "AR",
+        "zip": "72404",
+        "country_code": "US",
+        "location": {
+            "x": 35.8488977,
+            "y": -90.6677436
+        },
+        "elevation": "89.52690887",
+        "year_constructed": 1974,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3673,
+        "name": "CenturyLink Field",
+        "capacity": 69000,
+        "grass": false,
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98134",
+        "country_code": "US",
+        "location": {
+            "x": 47.595217,
+            "y": -122.33165
+        },
+        "elevation": "5.2",
+        "year_constructed": 2002,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 4251,
+        "name": "Chase Field",
+        "capacity": 48519,
+        "grass": false,
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85004",
+        "country_code": "US",
+        "location": {
+            "x": 33.445278,
+            "y": -112.066944
+        },
+        "elevation": "323.2064514",
+        "year_constructed": 1998,
+        "dome": false,
+        "timezone": "America/Phoenix"
+    },
+    {
+        "id": 3486,
+        "name": "Children's Mercy Park",
+        "capacity": 18467,
+        "grass": true,
+        "city": "Kansas City",
+        "state": "KS",
+        "zip": "66111",
+        "country_code": "US",
+        "location": {
+            "x": 39.121768,
+            "y": -94.823198
+        },
+        "elevation": "300.8",
+        "year_constructed": 2011,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3676,
+        "name": "Christy Mathewson-Memorial Stadium",
+        "capacity": 13100,
+        "grass": false,
+        "city": "Lewisburg",
+        "state": "PA",
+        "zip": "17837",
+        "country_code": "US",
+        "location": {
+            "x": 40.9519411,
+            "y": -76.884752
+        },
+        "elevation": "151.194931",
+        "year_constructed": 1924,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3681,
+        "name": "Coffey Field",
+        "capacity": 7000,
+        "grass": false,
+        "city": "The Bronx",
+        "state": "NY",
+        "zip": "10458",
+        "country_code": "US",
+        "location": {
+            "x": 40.8615808,
+            "y": -73.8827649
+        },
+        "elevation": "31.2384243",
+        "year_constructed": 1930,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3683,
+        "name": "Commonwealth Stadium",
+        "capacity": 61000,
+        "grass": true,
+        "city": "Lexington",
+        "state": "KY",
+        "zip": "40506",
+        "country_code": "US",
+        "location": {
+            "x": 38.0220905,
+            "y": -84.5053408
+        },
+        "elevation": "307.4248962",
+        "year_constructed": 1973,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3847,
+        "name": "Cooper Field",
+        "capacity": 2500,
+        "grass": false,
+        "city": "Washington",
+        "state": "DC",
+        "zip": "20007",
+        "country_code": "US",
+        "location": {
+            "x": 38.9080248,
+            "y": -77.0753144
+        },
+        "elevation": "32.38431549",
+        "year_constructed": 2003,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 499,
+        "name": "Cotton Bowl",
+        "capacity": 92100,
+        "grass": false,
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75210",
+        "country_code": "US",
+        "location": {
+            "x": 32.779722,
+            "y": -96.759722
+        },
+        "elevation": "133.2241211",
+        "year_constructed": 1930,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 5237,
+        "name": "Coughlin-Alumni Stadium",
+        "capacity": 15000,
+        "grass": true,
+        "city": "Brookings",
+        "state": "SD",
+        "zip": "57006",
+        "country_code": "US",
+        "location": {
+            "x": 44.3210182,
+            "y": -96.7801386
+        },
+        "elevation": "495.7769775",
+        "year_constructed": 1962,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3685,
+        "name": "Coughlin-Alumni Stadium",
+        "capacity": 16700,
+        "grass": false,
+        "city": "Brookings",
+        "state": "SD",
+        "zip": "57007",
+        "country_code": "US",
+        "location": {
+            "x": 44.32121,
+            "y": -96.780096
+        },
+        "elevation": "495.8",
+        "year_constructed": 1961,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3686,
+        "name": "Cowboy Stadium",
+        "capacity": 17410,
+        "grass": false,
+        "city": "Lake Charles",
+        "state": "LA",
+        "zip": "70607",
+        "country_code": "US",
+        "location": {
+            "x": 30.1804575,
+            "y": -93.2178729
+        },
+        "elevation": "4.168509007",
+        "year_constructed": 1965,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3689,
+        "name": "Cramton Bowl",
+        "capacity": 21000,
+        "grass": false,
+        "city": "Montgomery",
+        "state": "AL",
+        "zip": "36101",
+        "country_code": "US",
+        "location": {
+            "x": 32.37949,
+            "y": -86.293002
+        },
+        "elevation": "75.10210419",
+        "year_constructed": 1922,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 4737,
+        "name": "Croke Park Stadium",
+        "capacity": 82300,
+        "grass": false,
+        "city": "Dublin",
+        "state": "",
+        "zip": null,
+        "country_code": "IE",
+        "location": null,
+        "elevation": "4.7",
+        "year_constructed": 1884,
+        "dome": false,
+        "timezone": null
+    },
+    {
+        "id": 1905,
+        "name": "DakotaDome",
+        "capacity": 10000,
+        "grass": false,
+        "city": "Vermillion",
+        "state": "SD",
+        "zip": "57069",
+        "country_code": "US",
+        "location": {
+            "x": 42.7911218,
+            "y": -96.9278427
+        },
+        "elevation": "373.3928833",
+        "year_constructed": 1979,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3910,
+        "name": "Darrell K Royal-Texas Memorial Stadium",
+        "capacity": 100119,
+        "grass": false,
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78712",
+        "country_code": "US",
+        "location": {
+            "x": 30.2836813,
+            "y": -97.7325345
+        },
+        "elevation": "160.3089447",
+        "year_constructed": 1924,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3693,
+        "name": "Davis Wade Stadium",
+        "capacity": 61337,
+        "grass": true,
+        "city": "Starkville",
+        "state": "MS",
+        "zip": "39762",
+        "country_code": "US",
+        "location": {
+            "x": 33.4563403,
+            "y": -88.7933652
+        },
+        "elevation": "110.2742081",
+        "year_constructed": 1914,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3691,
+        "name": "D. B. Milne Field",
+        "capacity": 5000,
+        "grass": false,
+        "city": "Jacksonville",
+        "state": "FL",
+        "zip": "32211",
+        "country_code": "US",
+        "location": {
+            "x": 30.3568843,
+            "y": -81.605476
+        },
+        "elevation": "12.51101398",
+        "year_constructed": 1998,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3694,
+        "name": "DeGol Field",
+        "capacity": 3500,
+        "grass": false,
+        "city": "Loretto",
+        "state": "PA",
+        "zip": "15940",
+        "country_code": "US",
+        "location": {
+            "x": 40.5063173,
+            "y": -78.637214
+        },
+        "elevation": "586.9408569",
+        "year_constructed": 2006,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3695,
+        "name": "Delaware Stadium",
+        "capacity": 22000,
+        "grass": false,
+        "city": "Newark",
+        "state": "DE",
+        "zip": "19713",
+        "country_code": "US",
+        "location": {
+            "x": 39.6617428,
+            "y": -75.7488224
+        },
+        "elevation": "28.74350357",
+        "year_constructed": 1952,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3696,
+        "name": "Dix Stadium",
+        "capacity": 25000,
+        "grass": false,
+        "city": "Kent",
+        "state": "OH",
+        "zip": "44242",
+        "country_code": "US",
+        "location": {
+            "x": 41.1390935,
+            "y": -81.31346
+        },
+        "elevation": "321.3641663",
+        "year_constructed": 1969,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3887,
+        "name": "Donald W. Reynolds Razorback Stadium Frank Broyles Field",
+        "capacity": 72000,
+        "grass": false,
+        "city": "Fayetteville",
+        "state": "AR",
+        "zip": "72702",
+        "country_code": "US",
+        "location": {
+            "x": 36.0680662,
+            "y": -94.1789534
+        },
+        "elevation": "403.7972412",
+        "year_constructed": 1938,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3699,
+        "name": "Dowdy-Ficklen Stadium",
+        "capacity": 50000,
+        "grass": false,
+        "city": "Greenville",
+        "state": "NC",
+        "zip": "27858",
+        "country_code": "US",
+        "location": {
+            "x": 35.5968486,
+            "y": -77.364564
+        },
+        "elevation": "19.0564537",
+        "year_constructed": 1963,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3700,
+        "name": "Doyt Perry Stadium",
+        "capacity": 24000,
+        "grass": false,
+        "city": "Bowling Green",
+        "state": "OH",
+        "zip": "43403",
+        "country_code": "US",
+        "location": {
+            "x": 41.3780114,
+            "y": -83.6225
+        },
+        "elevation": "205.9057465",
+        "year_constructed": 1966,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3701,
+        "name": "Drake Stadium",
+        "capacity": 14557,
+        "grass": false,
+        "city": "Des Moines",
+        "state": "IA",
+        "zip": "50311",
+        "country_code": "US",
+        "location": {
+            "x": 41.605,
+            "y": -93.655
+        },
+        "elevation": "277.8869934",
+        "year_constructed": 1925,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3706,
+        "name": "Eccles Coliseum",
+        "capacity": 8500,
+        "grass": false,
+        "city": "Cedar City",
+        "state": "UT",
+        "zip": "84720",
+        "country_code": "US",
+        "location": {
+            "x": 37.6757919,
+            "y": -113.0773938
+        },
+        "elevation": "1763.97644",
+        "year_constructed": 1967,
+        "dome": false,
+        "timezone": "America/Denver"
+    },
+    {
+        "id": 2068,
+        "name": "E. Claiborne Robins Stadium",
+        "capacity": 9000,
+        "grass": false,
+        "city": "Richmond",
+        "state": "VA",
+        "zip": "23173",
+        "country_code": "US",
+        "location": {
+            "x": 37.5807765,
+            "y": -77.5372211
+        },
+        "elevation": "60.03879166",
+        "year_constructed": 2010,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3902,
+        "name": "Eddie Robinson Stadium",
+        "capacity": 19600,
+        "grass": false,
+        "city": "Grambling",
+        "state": "LA",
+        "zip": "71245",
+        "country_code": "US",
+        "location": {
+            "x": 32.5258665,
+            "y": -92.7146412
+        },
+        "elevation": "94.58428955",
+        "year_constructed": 1983,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 4757,
+        "name": "Edwards-Maurer Field",
+        "capacity": 3000,
+        "grass": false,
+        "city": "Springfield",
+        "state": "OH",
+        "zip": "45504",
+        "country_code": "US",
+        "location": {
+            "x": 39.937943,
+            "y": -83.812075
+        },
+        "elevation": "309.1",
+        "year_constructed": 1993,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3704,
+        "name": "E. J. Whitmire Stadium",
+        "capacity": 13742,
+        "grass": false,
+        "city": "Cullowhee",
+        "state": "NC",
+        "zip": "28723",
+        "country_code": "US",
+        "location": {
+            "x": 35.3048352,
+            "y": -83.1818148
+        },
+        "elevation": "653.8632813",
+        "year_constructed": 1974,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3710,
+        "name": "Ernest W. Spangler Stadium",
+        "capacity": 8500,
+        "grass": false,
+        "city": "Boiling Springs",
+        "state": "NC",
+        "zip": "28152",
+        "country_code": "US",
+        "location": {
+            "x": 35.2457593,
+            "y": -81.6739887
+        },
+        "elevation": "253.207016",
+        "year_constructed": 1969,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3711,
+        "name": "Estes Stadium",
+        "capacity": 9000,
+        "grass": false,
+        "city": "Conway",
+        "state": "AR",
+        "zip": "72035",
+        "country_code": "US",
+        "location": {
+            "x": 35.0802599,
+            "y": -92.460045
+        },
+        "elevation": "94.25577545",
+        "year_constructed": 1939,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3712,
+        "name": "EverBank Field",
+        "capacity": 67246,
+        "grass": true,
+        "city": "Jacksonville",
+        "state": "FL",
+        "zip": "32022",
+        "country_code": "US",
+        "location": {
+            "x": 30.323889,
+            "y": -81.6375
+        },
+        "elevation": "1.336527586",
+        "year_constructed": 1995,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3713,
+        "name": "Falcon Stadium",
+        "capacity": 46692,
+        "grass": false,
+        "city": "Colorado Springs",
+        "state": "CO",
+        "zip": "80840",
+        "country_code": "US",
+        "location": {
+            "x": 38.9969701,
+            "y": -104.8436165
+        },
+        "elevation": "2024.875732",
+        "year_constructed": 1962,
+        "dome": false,
+        "timezone": "America/Denver"
+    },
+    {
+        "id": 3714,
+        "name": "Fargodome",
+        "capacity": 19000,
+        "grass": false,
+        "city": "Fargo",
+        "state": "ND",
+        "zip": "51802",
+        "country_code": "US",
+        "location": {
+            "x": 46.9029938,
+            "y": -96.8003251
+        },
+        "elevation": "274.4847717",
+        "year_constructed": 1992,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3838,
+        "name": "Faurot Field",
+        "capacity": 71168,
+        "grass": false,
+        "city": "Columbia",
+        "state": "MO",
+        "zip": "65211",
+        "country_code": "US",
+        "location": {
+            "x": 38.9358491,
+            "y": -92.3332009
+        },
+        "elevation": "212.6865692",
+        "year_constructed": 1927,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3715,
+        "name": "FAU Stadium",
+        "capacity": 30000,
+        "grass": false,
+        "city": "Boca Raton",
+        "state": "FL",
+        "zip": "33499",
+        "country_code": "US",
+        "location": {
+            "x": 26.3763763,
+            "y": -80.1015759
+        },
+        "elevation": "3.613628864",
+        "year_constructed": 2011,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3719,
+        "name": "FedEx Field",
+        "capacity": 82000,
+        "grass": true,
+        "city": "Landover",
+        "state": "MD",
+        "zip": "20785",
+        "country_code": "US",
+        "location": {
+            "x": 38.907778,
+            "y": -76.864444
+        },
+        "elevation": "59.50488663",
+        "year_constructed": 1997,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 4245,
+        "name": "Fenway Park",
+        "capacity": 38073,
+        "grass": true,
+        "city": "Boston",
+        "state": "MA",
+        "zip": "2297 ",
+        "country_code": "US",
+        "location": {
+            "x": 42.346389,
+            "y": -71.0975
+        },
+        "elevation": "4.887843609",
+        "year_constructed": 1912,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 4899,
+        "name": "Fifth Third Bank Stadium",
+        "capacity": 8318,
+        "grass": null,
+        "city": "Kennesaw",
+        "state": "GA",
+        "zip": null,
+        "country_code": "US",
+        "location": {
+            "x": 34.0289318,
+            "y": -84.5676234
+        },
+        "elevation": "296.9589844",
+        "year_constructed": 2010,
+        "dome": false,
+        "timezone": null
+    },
+    {
+        "id": 3720,
+        "name": "Finley Stadium",
+        "capacity": 20668,
+        "grass": false,
+        "city": "Chattanooga",
+        "state": "TN",
+        "zip": "37403",
+        "country_code": "US",
+        "location": {
+            "x": 35.0363792,
+            "y": -85.3158835
+        },
+        "elevation": "200.1825104",
+        "year_constructed": 1997,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3721,
+        "name": "Fisher Field",
+        "capacity": 13132,
+        "grass": false,
+        "city": "Easton",
+        "state": "PA",
+        "zip": "18042",
+        "country_code": "US",
+        "location": {
+            "x": 40.7009796,
+            "y": -75.2106499
+        },
+        "elevation": "81.43208313",
+        "year_constructed": 1926,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3722,
+        "name": "Fitton Field",
+        "capacity": 23500,
+        "grass": true,
+        "city": "Worcester",
+        "state": "MA",
+        "zip": "1601 ",
+        "country_code": "US",
+        "location": {
+            "x": 42.2403564,
+            "y": -71.8111424
+        },
+        "elevation": "137.3915253",
+        "year_constructed": 1924,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 218,
+        "name": "FIU Stadium",
+        "capacity": 23500,
+        "grass": false,
+        "city": "Miami",
+        "state": "FL",
+        "zip": "33199",
+        "country_code": "US",
+        "location": {
+            "x": 25.7525014,
+            "y": -80.3778912
+        },
+        "elevation": "1.718581796",
+        "year_constructed": 1995,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 4417,
+        "name": "Five Star Stadium at the Moye Complex",
+        "capacity": 10200,
+        "grass": false,
+        "city": "Macon",
+        "state": "GA",
+        "zip": "31207",
+        "country_code": "US",
+        "location": {
+            "x": 32.8262075,
+            "y": -83.6522485
+        },
+        "elevation": "138.6699677",
+        "year_constructed": 2013,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3724,
+        "name": "Floyd Casey Stadium",
+        "capacity": 50000,
+        "grass": false,
+        "city": "Waco",
+        "state": "TX",
+        "zip": "76798",
+        "country_code": "US",
+        "location": {
+            "x": 31.530206,
+            "y": -97.148358
+        },
+        "elevation": "151.2",
+        "year_constructed": 1950,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3726,
+        "name": "Folsom Field",
+        "capacity": 50183,
+        "grass": false,
+        "city": "Boulder",
+        "state": "CO",
+        "zip": "80309",
+        "country_code": "US",
+        "location": {
+            "x": 40.0094746,
+            "y": -105.266905
+        },
+        "elevation": "1634.041138",
+        "year_constructed": 1924,
+        "dome": false,
+        "timezone": "America/Denver"
+    },
+    {
+        "id": 3727,
+        "name": "Ford Field",
+        "capacity": 65000,
+        "grass": false,
+        "city": "Detroit",
+        "state": "MI",
+        "zip": "48226",
+        "country_code": "US",
+        "location": {
+            "x": 42.34,
+            "y": -83.045556
+        },
+        "elevation": "183.9643707",
+        "year_constructed": 2002,
+        "dome": false,
+        "timezone": "America/Detroit"
+    },
+    {
+        "id": 3918,
+        "name": "Foreman Field",
+        "capacity": 20118,
+        "grass": false,
+        "city": "Norfolk",
+        "state": "VA",
+        "zip": "23551",
+        "country_code": "US",
+        "location": {
+            "x": 36.8889533,
+            "y": -76.3049175
+        },
+        "elevation": "3.147987843",
+        "year_constructed": 1936,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3730,
+        "name": "Franklin Field",
+        "capacity": 52593,
+        "grass": false,
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19104",
+        "country_code": "US",
+        "location": {
+            "x": 39.9501475,
+            "y": -75.1901043
+        },
+        "elevation": "11.71361065",
+        "year_constructed": 1895,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 5220,
+        "name": "Garrison Stadium",
+        "capacity": 5000,
+        "grass": null,
+        "city": "Murfreesboro",
+        "state": "TN",
+        "zip": null,
+        "country_code": "US",
+        "location": {
+            "x": 36.434053,
+            "y": -77.098431
+        },
+        "elevation": "18.69116974",
+        "year_constructed": 2007,
+        "dome": false,
+        "timezone": null
+    },
+    {
+        "id": 3734,
+        "name": "Gayle and Tom Benson Stadium",
+        "capacity": 6000,
+        "grass": false,
+        "city": "San Antonio",
+        "state": "TX",
+        "zip": "78209",
+        "country_code": "US",
+        "location": {
+            "x": 29.4674787,
+            "y": -98.470014
+        },
+        "elevation": "208.4659576",
+        "year_constructed": 2008,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3835,
+        "name": "Gaylord Family Oklahoma Memorial Stadium",
+        "capacity": 84389,
+        "grass": false,
+        "city": "Norman",
+        "state": "OK",
+        "zip": "73019",
+        "country_code": "US",
+        "location": {
+            "x": 35.2058537,
+            "y": -97.4423145
+        },
+        "elevation": "355.0962524",
+        "year_constructed": 1925,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3495,
+        "name": "Georgia Dome",
+        "capacity": 74228,
+        "grass": false,
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "39901",
+        "country_code": "US",
+        "location": {
+            "x": 33.7576897,
+            "y": -84.4008285
+        },
+        "elevation": "303.1637268",
+        "year_constructed": 1992,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 4246,
+        "name": "Georgia State Stadium",
+        "capacity": 24333,
+        "grass": false,
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30315",
+        "country_code": "US",
+        "location": {
+            "x": 33.735267,
+            "y": -84.389949
+        },
+        "elevation": "287",
+        "year_constructed": 2017,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3735,
+        "name": "Gerald J. Ford Stadium",
+        "capacity": 32000,
+        "grass": false,
+        "city": "University Park",
+        "state": "TX",
+        "zip": "75275",
+        "country_code": "US",
+        "location": {
+            "x": 32.8377223,
+            "y": -96.7827859
+        },
+        "elevation": "169.4058075",
+        "year_constructed": 2000,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3737,
+        "name": "Gibbs Stadium",
+        "capacity": 13000,
+        "grass": true,
+        "city": "Spartanburg",
+        "state": "SC",
+        "zip": "29303",
+        "country_code": "US",
+        "location": {
+            "x": 34.9618606,
+            "y": -81.9328915
+        },
+        "elevation": "231.6300049",
+        "year_constructed": 1996,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3738,
+        "name": "Gillette Stadium",
+        "capacity": 68756,
+        "grass": false,
+        "city": "Foxborough",
+        "state": "MA",
+        "zip": "2035 ",
+        "country_code": "US",
+        "location": {
+            "x": 42.0909458,
+            "y": -71.2643465
+        },
+        "elevation": "78.00233459",
+        "year_constructed": 2002,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3739,
+        "name": "Glass Bowl",
+        "capacity": 26248,
+        "grass": false,
+        "city": "Toledo",
+        "state": "OH",
+        "zip": "43606",
+        "country_code": "US",
+        "location": {
+            "x": 41.6574777,
+            "y": -83.6135652
+        },
+        "elevation": "181.4839783",
+        "year_constructed": 1937,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3740,
+        "name": "Golden Lion Stadium",
+        "capacity": 16000,
+        "grass": false,
+        "city": "Pine Bluff",
+        "state": "AR",
+        "zip": "71601",
+        "country_code": "US",
+        "location": {
+            "x": 34.253327,
+            "y": -92.0214031
+        },
+        "elevation": "67.71961975",
+        "year_constructed": 2000,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3741,
+        "name": "Goodman Stadium",
+        "capacity": 16000,
+        "grass": false,
+        "city": "Bethlehem",
+        "state": "PA",
+        "zip": "18015",
+        "country_code": "US",
+        "location": {
+            "x": 40.5890837,
+            "y": -75.3553874
+        },
+        "elevation": "90.32305145",
+        "year_constructed": 1988,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3742,
+        "name": "Governors Stadium",
+        "capacity": 10000,
+        "grass": false,
+        "city": "Clarksville",
+        "state": "TN",
+        "zip": "37040",
+        "country_code": "US",
+        "location": {
+            "x": 36.5362559,
+            "y": -87.3525507
+        },
+        "elevation": "142.8643188",
+        "year_constructed": 1946,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3748,
+        "name": "Graham Stadium",
+        "capacity": 8000,
+        "grass": false,
+        "city": "Martin",
+        "state": "TN",
+        "zip": "38238",
+        "country_code": "US",
+        "location": {
+            "x": 36.3448341,
+            "y": -88.8616245
+        },
+        "elevation": "124.6879349",
+        "year_constructed": 1964,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 4293,
+        "name": "Guaranteed Rate Field",
+        "capacity": 40615,
+        "grass": true,
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60616",
+        "country_code": "US",
+        "location": {
+            "x": 41.83,
+            "y": -87.633889
+        },
+        "elevation": "180.8555756",
+        "year_constructed": 1991,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 4029,
+        "name": "Hale Stadium",
+        "capacity": 10000,
+        "grass": true,
+        "city": "Nashville",
+        "state": "TN",
+        "zip": "37209",
+        "country_code": "US",
+        "location": {
+            "x": 36.168056,
+            "y": -86.826944
+        },
+        "elevation": "138.4986725",
+        "year_constructed": 1953,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3744,
+        "name": "Hancock Stadium",
+        "capacity": 15000,
+        "grass": false,
+        "city": "Normal",
+        "state": "IL",
+        "zip": "61761",
+        "country_code": "US",
+        "location": {
+            "x": 40.5125091,
+            "y": -88.9967177
+        },
+        "elevation": "242.8722687",
+        "year_constructed": 1963,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 6526,
+        "name": "Hancock Whitney Stadium",
+        "capacity": 25000,
+        "grass": null,
+        "city": "Mobile",
+        "state": "AL",
+        "zip": null,
+        "country_code": "USA",
+        "location": null,
+        "elevation": null,
+        "year_constructed": null,
+        "dome": false,
+        "timezone": null
+    },
+    {
+        "id": 3746,
+        "name": "Hanson Field",
+        "capacity": 16368,
+        "grass": false,
+        "city": "Macomb",
+        "state": "IL",
+        "zip": "61455",
+        "country_code": "US",
+        "location": {
+            "x": 40.4683928,
+            "y": -90.6841248
+        },
+        "elevation": "192.8755646",
+        "year_constructed": 1950,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3948,
+        "name": "Hard Rock Stadium",
+        "capacity": 65326,
+        "grass": true,
+        "city": "Miami Gardens",
+        "state": "FL",
+        "zip": "33299",
+        "country_code": "US",
+        "location": {
+            "x": 25.9579665,
+            "y": -80.2388604
+        },
+        "elevation": "2.624486446",
+        "year_constructed": 1987,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3963,
+        "name": "Harry Turpin Stadium",
+        "capacity": 15971,
+        "grass": false,
+        "city": "Natchitoches",
+        "state": "LA",
+        "zip": "71457",
+        "country_code": "US",
+        "location": {
+            "x": 31.747259,
+            "y": -93.0961357
+        },
+        "elevation": "36.58879089",
+        "year_constructed": 1976,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3750,
+        "name": "Harvard Stadium",
+        "capacity": 30323,
+        "grass": false,
+        "city": "Boston",
+        "state": "MA",
+        "zip": "2134 ",
+        "country_code": "US",
+        "location": {
+            "x": 42.366704,
+            "y": -71.1267511
+        },
+        "elevation": "1.96428895",
+        "year_constructed": 1903,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3752,
+        "name": "Heinz Field",
+        "capacity": 68400,
+        "grass": false,
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15260",
+        "country_code": "US",
+        "location": {
+            "x": 40.4467648,
+            "y": -80.0157603
+        },
+        "elevation": "220.5887146",
+        "year_constructed": 2001,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3754,
+        "name": "High Point Solutions Stadium",
+        "capacity": 52454,
+        "grass": false,
+        "city": "Piscataway",
+        "state": "NJ",
+        "zip": "8854 ",
+        "country_code": "US",
+        "location": {
+            "x": 40.5136754,
+            "y": -74.4655737
+        },
+        "elevation": "8.543146133",
+        "year_constructed": 1994,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 4765,
+        "name": "Hillsboro Stadium",
+        "capacity": 7600,
+        "grass": false,
+        "city": "Portland",
+        "state": "OR",
+        "zip": "97124",
+        "country_code": "US",
+        "location": {
+            "x": 45.554597,
+            "y": -122.90694
+        },
+        "elevation": "65.4",
+        "year_constructed": 1999,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 1930,
+        "name": "Holt Arena",
+        "capacity": 12000,
+        "grass": false,
+        "city": "Pocatello",
+        "state": "ID",
+        "zip": "83201",
+        "country_code": "US",
+        "location": {
+            "x": 42.8702052,
+            "y": -112.4281274
+        },
+        "elevation": "1390.252441",
+        "year_constructed": 1970,
+        "dome": false,
+        "timezone": "America/Boise"
+    },
+    {
+        "id": 3756,
+        "name": "Homer Bryce Stadium",
+        "capacity": 15000,
+        "grass": false,
+        "city": "Nacogdoches",
+        "state": "TX",
+        "zip": "75961",
+        "country_code": "US",
+        "location": {
+            "x": 31.625719,
+            "y": -94.6444034
+        },
+        "elevation": "89.99433899",
+        "year_constructed": 1973,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 4582,
+        "name": "Hornet Stadium",
+        "capacity": 26500,
+        "grass": false,
+        "city": "Montgomery",
+        "state": "AL",
+        "zip": "36106",
+        "country_code": "US",
+        "location": {
+            "x": 32.3642223,
+            "y": -86.2896902
+        },
+        "elevation": "79.35839844",
+        "year_constructed": 2012,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3757,
+        "name": "Hornet Stadium",
+        "capacity": 21195,
+        "grass": false,
+        "city": "Sacramento",
+        "state": "CA",
+        "zip": "95819",
+        "country_code": "US",
+        "location": {
+            "x": 38.5556718,
+            "y": -121.4229607
+        },
+        "elevation": "12.30015659",
+        "year_constructed": 1969,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 3796,
+        "name": "Houchens Industries-L. T. Smith Stadium",
+        "capacity": 22113,
+        "grass": false,
+        "city": "Bowling Green",
+        "state": "KY",
+        "zip": "42101",
+        "country_code": "US",
+        "location": {
+            "x": 36.9847901,
+            "y": -86.4594041
+        },
+        "elevation": "154.4346619",
+        "year_constructed": 1968,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3758,
+        "name": "Houck Stadium",
+        "capacity": 11015,
+        "grass": false,
+        "city": "Cape Girardeau",
+        "state": "MO",
+        "zip": "63701",
+        "country_code": "US",
+        "location": {
+            "x": 37.3095375,
+            "y": -89.5313804
+        },
+        "elevation": "137.7152405",
+        "year_constructed": 1930,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3762,
+        "name": "Hughes Stadium",
+        "capacity": 10000,
+        "grass": false,
+        "city": "Baltimore",
+        "state": "MD",
+        "zip": "80521",
+        "country_code": "US",
+        "location": {
+            "x": 39.3439778,
+            "y": -76.5829573
+        },
+        "elevation": "67.05336761",
+        "year_constructed": 1949,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3765,
+        "name": "Husky Stadium",
+        "capacity": 70500,
+        "grass": false,
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98195",
+        "country_code": "US",
+        "location": {
+            "x": 47.6503235,
+            "y": -122.3015746
+        },
+        "elevation": "11.65622807",
+        "year_constructed": 1920,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 4424,
+        "name": "Husky Stadium",
+        "capacity": 5000,
+        "grass": false,
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77074",
+        "country_code": "US",
+        "location": {
+            "x": 29.6949025,
+            "y": -95.5167353
+        },
+        "elevation": "19.87884521",
+        "year_constructed": 2014,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3766,
+        "name": "Independence Stadium",
+        "capacity": 49565,
+        "grass": false,
+        "city": "Shreveport",
+        "state": "FL",
+        "zip": "71107",
+        "country_code": "US",
+        "location": {
+            "x": 32.475556,
+            "y": -93.791944
+        },
+        "elevation": "78.48539734",
+        "year_constructed": 1924,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3771,
+        "name": "Jack Spinks Stadium",
+        "capacity": 22500,
+        "grass": false,
+        "city": "Lorman",
+        "state": "MS",
+        "zip": "39096",
+        "country_code": "US",
+        "location": {
+            "x": 31.873621,
+            "y": -91.13488
+        },
+        "elevation": "72.25324249",
+        "year_constructed": 1992,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3772,
+        "name": "Jack Trice Stadium",
+        "capacity": 61500,
+        "grass": false,
+        "city": "Ames",
+        "state": "IA",
+        "zip": "50011",
+        "country_code": "US",
+        "location": {
+            "x": 42.0139977,
+            "y": -93.6357716
+        },
+        "elevation": "274.9135437",
+        "year_constructed": 1975,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 4752,
+        "name": "Jahna Field",
+        "capacity": 0,
+        "grass": null,
+        "city": "Winter Haven",
+        "state": "FL",
+        "zip": null,
+        "country_code": "US",
+        "location": null,
+        "elevation": "37.3",
+        "year_constructed": null,
+        "dome": false,
+        "timezone": null
+    },
+    {
+        "id": 3774,
+        "name": "Jayne Stadium",
+        "capacity": 10000,
+        "grass": false,
+        "city": "Morehead",
+        "state": "KY",
+        "zip": "40351",
+        "country_code": "US",
+        "location": {
+            "x": 38.1916481,
+            "y": -83.4253315
+        },
+        "elevation": "228.1033936",
+        "year_constructed": 1964,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 4418,
+        "name": "Jerry Richardson Stadium",
+        "capacity": 15314,
+        "grass": false,
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28223",
+        "country_code": "US",
+        "location": {
+            "x": 35.3105033,
+            "y": -80.7401194
+        },
+        "elevation": "190.365509",
+        "year_constructed": 2013,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3644,
+        "name": "Jim Wacker Field at Bobcat Stadium",
+        "capacity": 30000,
+        "grass": false,
+        "city": "San Marcos",
+        "state": "TX",
+        "zip": "78666",
+        "country_code": "US",
+        "location": {
+            "x": 29.8910008,
+            "y": -97.9255735
+        },
+        "elevation": "177.8676453",
+        "year_constructed": 1981,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3775,
+        "name": "Joan C. Edwards Stadium",
+        "capacity": 38019,
+        "grass": false,
+        "city": "Huntington",
+        "state": "WV",
+        "zip": "25755",
+        "country_code": "US",
+        "location": {
+            "x": 38.4247042,
+            "y": -82.4214412
+        },
+        "elevation": "163.7328186",
+        "year_constructed": 1991,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3776,
+        "name": "Joe Aillet Stadium",
+        "capacity": 28019,
+        "grass": false,
+        "city": "Ruston",
+        "state": "LA",
+        "zip": "71272",
+        "country_code": "US",
+        "location": {
+            "x": 32.5321487,
+            "y": -92.6560019
+        },
+        "elevation": "72.87982941",
+        "year_constructed": 1968,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3777,
+        "name": "Joe Walton Stadium",
+        "capacity": 3000,
+        "grass": false,
+        "city": "Moon Township",
+        "state": "PA",
+        "zip": "15108",
+        "country_code": "US",
+        "location": {
+            "x": 40.521046,
+            "y": -80.2159227
+        },
+        "elevation": "351.4482422",
+        "year_constructed": 2005,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3778,
+        "name": "John F. Kennedy Stadium",
+        "capacity": 5200,
+        "grass": false,
+        "city": "Springfield",
+        "state": "MO",
+        "zip": "19148",
+        "country_code": "US",
+        "location": {
+            "x": 37.191041,
+            "y": -93.301713
+        },
+        "elevation": "385.9",
+        "year_constructed": 1957,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3725,
+        "name": "Johnny Red\"\" Floyd Stadium\"\"",
+        "capacity": 31000,
+        "grass": false,
+        "city": "Murfreesboro",
+        "state": "TN",
+        "zip": "37132",
+        "country_code": "US",
+        "location": {
+            "x": 35.8511463,
+            "y": -86.3681649
+        },
+        "elevation": "191.7279816",
+        "year_constructed": 1933,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3781,
+        "name": "Johnny Unitas Stadium",
+        "capacity": 11000,
+        "grass": false,
+        "city": "Towson",
+        "state": "MD",
+        "zip": "21252",
+        "country_code": "US",
+        "location": {
+            "x": 39.3885683,
+            "y": -76.6159716
+        },
+        "elevation": "117.6974106",
+        "year_constructed": 1978,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 4728,
+        "name": "John O'Quinn Field at TDECU Stadium",
+        "capacity": 40000,
+        "grass": false,
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77004",
+        "country_code": "US",
+        "location": {
+            "x": 29.7219885,
+            "y": -95.3491623
+        },
+        "elevation": "9.57440567",
+        "year_constructed": 2014,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3782,
+        "name": "Johnson Hagood Stadium",
+        "capacity": 21000,
+        "grass": true,
+        "city": "Charleston",
+        "state": "SC",
+        "zip": "29403",
+        "country_code": "US",
+        "location": {
+            "x": 32.7936975,
+            "y": -79.9558183
+        },
+        "elevation": "4.137742996",
+        "year_constructed": 1948,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3784,
+        "name": "Jones AT&T Stadium",
+        "capacity": 60862,
+        "grass": false,
+        "city": "Lubbock",
+        "state": "TX",
+        "zip": "79409",
+        "country_code": "US",
+        "location": {
+            "x": 33.5910518,
+            "y": -101.8728824
+        },
+        "elevation": "980.7632446",
+        "year_constructed": 1947,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3785,
+        "name": "Jordan-Hare Stadium",
+        "capacity": 87451,
+        "grass": true,
+        "city": "Auburn",
+        "state": "AL",
+        "zip": "36849",
+        "country_code": "US",
+        "location": {
+            "x": 32.6025532,
+            "y": -85.4897479
+        },
+        "elevation": "201.1737976",
+        "year_constructed": 1939,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3662,
+        "name": "JSU Stadium",
+        "capacity": 24000,
+        "grass": false,
+        "city": "Jacksonville",
+        "state": "AL",
+        "zip": "36265",
+        "country_code": "US",
+        "location": {
+            "x": 33.8201052,
+            "y": -85.76647
+        },
+        "elevation": "198.0679016",
+        "year_constructed": 1947,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3786,
+        "name": "Kelly/Shorts Stadium",
+        "capacity": 32885,
+        "grass": false,
+        "city": "Mount Pleasant",
+        "state": "MI",
+        "zip": "48859",
+        "country_code": "US",
+        "location": {
+            "x": 43.5777313,
+            "y": -84.7709904
+        },
+        "elevation": "240.9007721",
+        "year_constructed": 1972,
+        "dome": false,
+        "timezone": "America/Detroit"
+    },
+    {
+        "id": 3787,
+        "name": "Kenan Memorial Stadium",
+        "capacity": 62980,
+        "grass": false,
+        "city": "Chapel Hill",
+        "state": "NC",
+        "zip": "27515",
+        "country_code": "US",
+        "location": {
+            "x": 35.9069294,
+            "y": -79.0478889
+        },
+        "elevation": "127.7569809",
+        "year_constructed": 1927,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3788,
+        "name": "Kenneth P. LaValle Stadium",
+        "capacity": 8200,
+        "grass": false,
+        "city": "Stony Brook",
+        "state": "NY",
+        "zip": "11790",
+        "country_code": "US",
+        "location": {
+            "x": 40.9188829,
+            "y": -73.1242966
+        },
+        "elevation": "32.63183975",
+        "year_constructed": 2002,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 4900,
+        "name": "Kermit Tipton Stadium",
+        "capacity": 6600,
+        "grass": false,
+        "city": "Johnson City",
+        "state": "TN",
+        "zip": "37604",
+        "country_code": "US",
+        "location": {
+            "x": 36.3269334,
+            "y": -82.3710142
+        },
+        "elevation": "544.1551514",
+        "year_constructed": 2010,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3790,
+        "name": "Kessler Field",
+        "capacity": 4000,
+        "grass": false,
+        "city": "West Long Branch",
+        "state": "NJ",
+        "zip": "7764 ",
+        "country_code": "US",
+        "location": {
+            "x": 40.279379,
+            "y": -74.0092635
+        },
+        "elevation": "9.979202271",
+        "year_constructed": 1993,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 5389,
+        "name": "Kessler Stadium",
+        "capacity": 4200,
+        "grass": false,
+        "city": "West Long Branch",
+        "state": "NJ",
+        "zip": "7764 ",
+        "country_code": "US",
+        "location": {
+            "x": 40.278953,
+            "y": -74.009451
+        },
+        "elevation": "9.9",
+        "year_constructed": 1993,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3791,
+        "name": "Kibbie Dome",
+        "capacity": 16000,
+        "grass": false,
+        "city": "Moscow",
+        "state": "ID",
+        "zip": "83843",
+        "country_code": "US",
+        "location": {
+            "x": 46.7262921,
+            "y": -117.0173713
+        },
+        "elevation": "794.4794922",
+        "year_constructed": 1975,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 3792,
+        "name": "Kidd Brewer Stadium",
+        "capacity": 24050,
+        "grass": false,
+        "city": "Boone",
+        "state": "NC",
+        "zip": "28608",
+        "country_code": "US",
+        "location": {
+            "x": 36.2114267,
+            "y": -81.6854278
+        },
+        "elevation": "991.3414307",
+        "year_constructed": 1962,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3793,
+        "name": "Kinnick Stadium",
+        "capacity": 70585,
+        "grass": false,
+        "city": "Iowa City",
+        "state": "IA",
+        "zip": "52242",
+        "country_code": "US",
+        "location": {
+            "x": 41.6586045,
+            "y": -91.5510829
+        },
+        "elevation": "220.6357727",
+        "year_constructed": 1929,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3795,
+        "name": "Kyle Field",
+        "capacity": 102733,
+        "grass": true,
+        "city": "College Station",
+        "state": "TX",
+        "zip": "77843",
+        "country_code": "US",
+        "location": {
+            "x": 30.6098891,
+            "y": -96.3403828
+        },
+        "elevation": "108.824585",
+        "year_constructed": 1927,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3797,
+        "name": "Ladd Peebles Stadium",
+        "capacity": 33471,
+        "grass": false,
+        "city": "Mobile",
+        "state": "AL",
+        "zip": "36695",
+        "country_code": "US",
+        "location": {
+            "x": 30.6730374,
+            "y": -88.0755704
+        },
+        "elevation": "9.828813553",
+        "year_constructed": 1948,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3798,
+        "name": "Lambeau Field",
+        "capacity": 80735,
+        "grass": true,
+        "city": "Greenbay",
+        "state": "WI",
+        "zip": "54304",
+        "country_code": "US",
+        "location": {
+            "x": 44.50131,
+            "y": -88.062273
+        },
+        "elevation": "192.3498077",
+        "year_constructed": 1957,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3799,
+        "name": "Lane Stadium",
+        "capacity": 66233,
+        "grass": false,
+        "city": "Blacksburg",
+        "state": "VA",
+        "zip": "24061",
+        "country_code": "US",
+        "location": {
+            "x": 37.2199873,
+            "y": -80.4180643
+        },
+        "elevation": "632.2631226",
+        "year_constructed": 1965,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3801,
+        "name": "LaVell Edwards Stadium",
+        "capacity": 63725,
+        "grass": false,
+        "city": "Provo",
+        "state": "UT",
+        "zip": "84602",
+        "country_code": "US",
+        "location": {
+            "x": 40.2575347,
+            "y": -111.6545247
+        },
+        "elevation": "1412.097046",
+        "year_constructed": 1964,
+        "dome": false,
+        "timezone": "America/Denver"
+    },
+    {
+        "id": 3802,
+        "name": "Lawrence A. Wien Stadium",
+        "capacity": 17000,
+        "grass": false,
+        "city": "Manhattan",
+        "state": "NY",
+        "zip": "10034",
+        "country_code": "US",
+        "location": {
+            "x": 40.8732697,
+            "y": -73.9164594
+        },
+        "elevation": "10.95070267",
+        "year_constructed": 1984,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3803,
+        "name": "Legion Field",
+        "capacity": 71594,
+        "grass": false,
+        "city": "Birmingham",
+        "state": "AL",
+        "zip": "35294",
+        "country_code": "US",
+        "location": {
+            "x": 33.511389,
+            "y": -86.842778
+        },
+        "elevation": "174.6382141",
+        "year_constructed": 1927,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 36,
+        "name": "Leonidoff Field",
+        "capacity": 5000,
+        "grass": false,
+        "city": "Poughkeepsie",
+        "state": "NY",
+        "zip": "12601",
+        "country_code": "US",
+        "location": {
+            "x": 41.7191409,
+            "y": -73.9329549
+        },
+        "elevation": "24.94474983",
+        "year_constructed": 1968,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 4738,
+        "name": "Levi's Stadium",
+        "capacity": 68500,
+        "grass": false,
+        "city": "Santa Clara",
+        "state": "CA",
+        "zip": "95054",
+        "country_code": "US",
+        "location": {
+            "x": 37.403,
+            "y": -121.97
+        },
+        "elevation": "4.531901836",
+        "year_constructed": 2014,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 3805,
+        "name": "Liberty Bowl Memorial Stadium",
+        "capacity": 62380,
+        "grass": false,
+        "city": "Memphis",
+        "state": "TN",
+        "zip": "38152",
+        "country_code": "US",
+        "location": {
+            "x": 35.1209429,
+            "y": -89.977147
+        },
+        "elevation": "90.62445831",
+        "year_constructed": 1965,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3806,
+        "name": "Lincoln Financial Field",
+        "capacity": 68532,
+        "grass": false,
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19122",
+        "country_code": "US",
+        "location": {
+            "x": 39.9007995,
+            "y": -75.1675414
+        },
+        "elevation": "3.198706865",
+        "year_constructed": 2003,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 477,
+        "name": "Los Angeles Memorial Coliseum",
+        "capacity": 93607,
+        "grass": true,
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90089",
+        "country_code": "US",
+        "location": {
+            "x": 34.014167,
+            "y": -118.287778
+        },
+        "elevation": "42.50374222",
+        "year_constructed": 1923,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 3809,
+        "name": "Louis Crews Stadium",
+        "capacity": 21000,
+        "grass": false,
+        "city": "Huntsville",
+        "state": "AL",
+        "zip": "35810",
+        "country_code": "US",
+        "location": {
+            "x": 34.7835363,
+            "y": -86.5784132
+        },
+        "elevation": "214.9181061",
+        "year_constructed": 1996,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3811,
+        "name": "Lubbers Stadium",
+        "capacity": 10444,
+        "grass": false,
+        "city": "Allendale",
+        "state": "MI",
+        "zip": "49401",
+        "country_code": "US",
+        "location": {
+            "x": 42.968996,
+            "y": -85.894735
+        },
+        "elevation": "205.8",
+        "year_constructed": 1973,
+        "dome": false,
+        "timezone": "America/Detroit"
+    },
+    {
+        "id": 3812,
+        "name": "Lucas Oil Stadium",
+        "capacity": 70000,
+        "grass": false,
+        "city": "Indianapolis",
+        "state": "IN",
+        "zip": "46225",
+        "country_code": "US",
+        "location": {
+            "x": 39.760056,
+            "y": -86.163806
+        },
+        "elevation": "216.3370361",
+        "year_constructed": 2008,
+        "dome": false,
+        "timezone": "America/Indiana/Indianapolis"
+    },
+    {
+        "id": 3816,
+        "name": "Mackay Stadium",
+        "capacity": 26000,
+        "grass": false,
+        "city": "Reno",
+        "state": "NV",
+        "zip": "89557",
+        "country_code": "US",
+        "location": {
+            "x": 39.5469459,
+            "y": -119.8175435
+        },
+        "elevation": "1406.57605",
+        "year_constructed": 1966,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 3817,
+        "name": "Malone Stadium",
+        "capacity": 30427,
+        "grass": false,
+        "city": "Monroe",
+        "state": "LA",
+        "zip": "71209",
+        "country_code": "US",
+        "location": {
+            "x": 32.5308089,
+            "y": -92.0660602
+        },
+        "elevation": "22.998209",
+        "year_constructed": 1978,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3779,
+        "name": "Manning Field at John L. Guidry Stadium",
+        "capacity": 10500,
+        "grass": false,
+        "city": "Thibodaux",
+        "state": "LA",
+        "zip": "70301",
+        "country_code": "US",
+        "location": {
+            "x": 29.7867254,
+            "y": -90.80455
+        },
+        "elevation": "3.23726368",
+        "year_constructed": 1972,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 4223,
+        "name": "Marlins Park",
+        "capacity": 34000,
+        "grass": true,
+        "city": "Miami",
+        "state": "FL",
+        "zip": "33125",
+        "country_code": "US",
+        "location": {
+            "x": 25.778056,
+            "y": -80.219722
+        },
+        "elevation": "1.853350639",
+        "year_constructed": 2012,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3820,
+        "name": "Martin Stadium",
+        "capacity": 32248,
+        "grass": false,
+        "city": "Pullman",
+        "state": "WA",
+        "zip": "99164",
+        "country_code": "US",
+        "location": {
+            "x": 46.731831,
+            "y": -117.1604991
+        },
+        "elevation": "773.9526367",
+        "year_constructed": 1972,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 3665,
+        "name": "Maryland Stadium",
+        "capacity": 51802,
+        "grass": false,
+        "city": "College Park",
+        "state": "MD",
+        "zip": "20742",
+        "country_code": "US",
+        "location": {
+            "x": 38.9903332,
+            "y": -76.9473792
+        },
+        "elevation": "32.68748093",
+        "year_constructed": 1950,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 4727,
+        "name": "McLane Stadium",
+        "capacity": 45140,
+        "grass": false,
+        "city": "Waco",
+        "state": "TX",
+        "zip": "76704",
+        "country_code": "US",
+        "location": {
+            "x": 31.5582015,
+            "y": -97.1156702
+        },
+        "elevation": "117.0538101",
+        "year_constructed": 2014,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3824,
+        "name": "Meade Stadium",
+        "capacity": 5180,
+        "grass": true,
+        "city": "Kingston",
+        "state": "RI",
+        "zip": "2881 ",
+        "country_code": "US",
+        "location": {
+            "x": 41.4879984,
+            "y": -71.5347458
+        },
+        "elevation": "32.68801498",
+        "year_constructed": 1928,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3826,
+        "name": "Memorial Field",
+        "capacity": 15000,
+        "grass": false,
+        "city": "Hanover",
+        "state": "NH",
+        "zip": "3755 ",
+        "country_code": "US",
+        "location": {
+            "x": 43.701302,
+            "y": -72.2842781
+        },
+        "elevation": "152.3080139",
+        "year_constructed": 1923,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3833,
+        "name": "Memorial Stadium",
+        "capacity": 50071,
+        "grass": false,
+        "city": "Lawrence",
+        "state": "KS",
+        "zip": "66045",
+        "country_code": "US",
+        "location": {
+            "x": 38.9629418,
+            "y": -95.2463686
+        },
+        "elevation": "274.855957",
+        "year_constructed": 1921,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3830,
+        "name": "Memorial Stadium",
+        "capacity": 52959,
+        "grass": false,
+        "city": "Bloomington",
+        "state": "IN",
+        "zip": "47408",
+        "country_code": "US",
+        "location": {
+            "x": 39.1808959,
+            "y": -86.5256217
+        },
+        "elevation": "231.6500854",
+        "year_constructed": 1960,
+        "dome": false,
+        "timezone": "America/Indiana/Indianapolis"
+    },
+    {
+        "id": 3829,
+        "name": "Memorial Stadium",
+        "capacity": 12464,
+        "grass": false,
+        "city": "Terre Haute",
+        "state": "IN",
+        "zip": "47809",
+        "country_code": "US",
+        "location": {
+            "x": 39.4746858,
+            "y": -87.3669599
+        },
+        "elevation": "155.5213165",
+        "year_constructed": 1925,
+        "dome": false,
+        "timezone": "America/Indiana/Indianapolis"
+    },
+    {
+        "id": 3834,
+        "name": "Memorial Stadium",
+        "capacity": 86047,
+        "grass": false,
+        "city": "Lincoln",
+        "state": "NE",
+        "zip": "68588",
+        "country_code": "US",
+        "location": {
+            "x": 40.820682,
+            "y": -96.705594
+        },
+        "elevation": "354.9318848",
+        "year_constructed": 1923,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3832,
+        "name": "Memorial Stadium",
+        "capacity": 60670,
+        "grass": false,
+        "city": "Champaign",
+        "state": "IL",
+        "zip": "61820",
+        "country_code": "US",
+        "location": {
+            "x": 40.0993268,
+            "y": -88.2359569
+        },
+        "elevation": "223.2471619",
+        "year_constructed": 1923,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3836,
+        "name": "Memorial Stadium",
+        "capacity": 81500,
+        "grass": false,
+        "city": "Clemson",
+        "state": "SC",
+        "zip": "29634",
+        "country_code": "US",
+        "location": {
+            "x": 34.6787737,
+            "y": -82.8432428
+        },
+        "elevation": "205.6452179",
+        "year_constructed": 1942,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 5348,
+        "name": "Mercedes-Benz Stadium",
+        "capacity": 71000,
+        "grass": false,
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30313",
+        "country_code": "US",
+        "location": {
+            "x": 33.755578,
+            "y": -84.400881
+        },
+        "elevation": "307.9",
+        "year_constructed": 2017,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3493,
+        "name": "Mercedes-Benz Superdome",
+        "capacity": 76468,
+        "grass": false,
+        "city": "New Orleans",
+        "state": "LA",
+        "zip": "70112",
+        "country_code": "US",
+        "location": {
+            "x": 29.950833,
+            "y": -90.081111
+        },
+        "elevation": "0.508185744",
+        "year_constructed": 1975,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3839,
+        "name": "MetLife Stadium",
+        "capacity": 82566,
+        "grass": false,
+        "city": "East Rutherford",
+        "state": "NJ",
+        "zip": "7073 ",
+        "country_code": "US",
+        "location": {
+            "x": 40.813611,
+            "y": -74.074444
+        },
+        "elevation": "1.68149209",
+        "year_constructed": 2010,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3558,
+        "name": "Michigan Stadium",
+        "capacity": 107601,
+        "grass": false,
+        "city": "Ann Arbor",
+        "state": "MI",
+        "zip": "48109",
+        "country_code": "US",
+        "location": {
+            "x": 42.2658365,
+            "y": -83.7486956
+        },
+        "elevation": "255.5500031",
+        "year_constructed": 1927,
+        "dome": false,
+        "timezone": "America/Detroit"
+    },
+    {
+        "id": 3976,
+        "name": "Mississippi Veterans Memorial Stadium",
+        "capacity": 60492,
+        "grass": true,
+        "city": "Jackson",
+        "state": "MS",
+        "zip": "39216",
+        "country_code": "US",
+        "location": {
+            "x": 32.3300053,
+            "y": -90.1795578
+        },
+        "elevation": "108.4067383",
+        "year_constructed": 1941,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3815,
+        "name": "M. M. Roberts Stadium",
+        "capacity": 36000,
+        "grass": false,
+        "city": "Hattiesburg",
+        "state": "MS",
+        "zip": "39402",
+        "country_code": "US",
+        "location": {
+            "x": 31.3289321,
+            "y": -89.3318118
+        },
+        "elevation": "64.52726746",
+        "year_constructed": 1932,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 4014,
+        "name": "Moretz Stadium",
+        "capacity": 8500,
+        "grass": null,
+        "city": "Hickory",
+        "state": "NC",
+        "zip": null,
+        "country_code": "US",
+        "location": null,
+        "elevation": "351.6",
+        "year_constructed": 1924,
+        "dome": false,
+        "timezone": null
+    },
+    {
+        "id": 3842,
+        "name": "Mountaineer Field at Milan Puskar Stadium",
+        "capacity": 60000,
+        "grass": false,
+        "city": "Morgantown",
+        "state": "WV",
+        "zip": "26507",
+        "country_code": "US",
+        "location": {
+            "x": 39.6502744,
+            "y": -79.9551873
+        },
+        "elevation": "327.409668",
+        "year_constructed": 1980,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3814,
+        "name": "M&T Bank Stadium",
+        "capacity": 71008,
+        "grass": false,
+        "city": "Baltimore",
+        "state": "MD",
+        "zip": "21230",
+        "country_code": "US",
+        "location": {
+            "x": 39.278056,
+            "y": -76.622778
+        },
+        "elevation": "2.961556435",
+        "year_constructed": 1998,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3848,
+        "name": "Multi-Sport Stadium",
+        "capacity": 1200,
+        "grass": null,
+        "city": "Worcester",
+        "state": "MA",
+        "zip": null,
+        "country_code": "US",
+        "location": null,
+        "elevation": "203.4",
+        "year_constructed": 2005,
+        "dome": false,
+        "timezone": null
+    },
+    {
+        "id": 3850,
+        "name": "Municipal Stadium",
+        "capacity": 10000,
+        "grass": false,
+        "city": "Daytona Beach",
+        "state": "FL",
+        "zip": "32114",
+        "country_code": "US",
+        "location": {
+            "x": 29.173466,
+            "y": -81.117511
+        },
+        "elevation": "9.516305923",
+        "year_constructed": 1979,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3851,
+        "name": "Mustang Stadium",
+        "capacity": 3500,
+        "grass": null,
+        "city": "Stevenson",
+        "state": "MD",
+        "zip": null,
+        "country_code": "US",
+        "location": null,
+        "elevation": "154",
+        "year_constructed": 2012,
+        "dome": false,
+        "timezone": null
+    },
+    {
+        "id": 3852,
+        "name": "Navy-Marine Corps Memorial Stadium",
+        "capacity": 34000,
+        "grass": true,
+        "city": "Annapolis",
+        "state": "MD",
+        "zip": "21402",
+        "country_code": "US",
+        "location": {
+            "x": 38.9846985,
+            "y": -76.5076335
+        },
+        "elevation": "10.74990082",
+        "year_constructed": 1959,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 5083,
+        "name": "New Turner Stadium",
+        "capacity": 4400,
+        "grass": null,
+        "city": "Upland",
+        "state": "IN",
+        "zip": null,
+        "country_code": "US",
+        "location": {
+            "x": 40.456848,
+            "y": -85.501181
+        },
+        "elevation": "282.0274963",
+        "year_constructed": 2012,
+        "dome": false,
+        "timezone": null
+    },
+    {
+        "id": 3853,
+        "name": "Neyland Stadium",
+        "capacity": 102455,
+        "grass": true,
+        "city": "Knoxville",
+        "state": "TN",
+        "zip": "37996",
+        "country_code": "US",
+        "location": {
+            "x": 35.9550131,
+            "y": -83.9250128
+        },
+        "elevation": "271.9517212",
+        "year_constructed": 1921,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3854,
+        "name": "Nippert Stadium",
+        "capacity": 40000,
+        "grass": false,
+        "city": "Cincinnati",
+        "state": "OH",
+        "zip": "45221",
+        "country_code": "US",
+        "location": {
+            "x": 39.1312495,
+            "y": -84.5161913
+        },
+        "elevation": "230.0660553",
+        "year_constructed": 1915,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3810,
+        "name": "Nissan Stadium",
+        "capacity": 68798,
+        "grass": false,
+        "city": "Nashville",
+        "state": "TN",
+        "zip": "37209",
+        "country_code": "US",
+        "location": {
+            "x": 36.166479,
+            "y": -86.7712898
+        },
+        "elevation": "121.0412598",
+        "year_constructed": 1999,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3855,
+        "name": "Notre Dame Stadium",
+        "capacity": 80795,
+        "grass": false,
+        "city": "Notre Dame",
+        "state": "IN",
+        "zip": "46556",
+        "country_code": "US",
+        "location": {
+            "x": 41.698378,
+            "y": -86.2339425
+        },
+        "elevation": "222.645401",
+        "year_constructed": 1930,
+        "dome": false,
+        "timezone": "America/Indiana/Indianapolis"
+    },
+    {
+        "id": 3856,
+        "name": "Nottingham Field",
+        "capacity": 8533,
+        "grass": true,
+        "city": "Greeley",
+        "state": "CO",
+        "zip": "80639",
+        "country_code": "US",
+        "location": {
+            "x": 40.403493,
+            "y": -104.705139
+        },
+        "elevation": "1455.349976",
+        "year_constructed": 1995,
+        "dome": false,
+        "timezone": "America/Denver"
+    },
+    {
+        "id": 3891,
+        "name": "NRG Stadium",
+        "capacity": 72220,
+        "grass": true,
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77054",
+        "country_code": "US",
+        "location": {
+            "x": 29.684722,
+            "y": -95.410833
+        },
+        "elevation": "15.19169617",
+        "year_constructed": 2002,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3858,
+        "name": "O'Brien Stadium",
+        "capacity": 10000,
+        "grass": false,
+        "city": "Charleston",
+        "state": "IL",
+        "zip": "61920",
+        "country_code": "US",
+        "location": {
+            "x": 39.4804965,
+            "y": -88.1811618
+        },
+        "elevation": "212.9662933",
+        "year_constructed": 1970,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3861,
+        "name": "Ohio Stadium",
+        "capacity": 104944,
+        "grass": false,
+        "city": "Columbus",
+        "state": "OH",
+        "zip": "43210",
+        "country_code": "US",
+        "location": {
+            "x": 40.0016447,
+            "y": -83.0197266
+        },
+        "elevation": "216.6770325",
+        "year_constructed": 1922,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3862,
+        "name": "O'Kelly-Riddick Stadium",
+        "capacity": 10000,
+        "grass": false,
+        "city": "Durham",
+        "state": "NC",
+        "zip": "27707",
+        "country_code": "US",
+        "location": {
+            "x": 35.9738646,
+            "y": -78.896969
+        },
+        "elevation": "96.73323059",
+        "year_constructed": 1975,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3864,
+        "name": "Oliver C. Dawson Stadium",
+        "capacity": 22000,
+        "grass": false,
+        "city": "Orangeburg",
+        "state": "SC",
+        "zip": "29115",
+        "country_code": "US",
+        "location": {
+            "x": 33.4986313,
+            "y": -80.8446857
+        },
+        "elevation": "67.29846191",
+        "year_constructed": 1955,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 5403,
+        "name": "Orlando City Stadium",
+        "capacity": 0,
+        "grass": null,
+        "city": "Orlanda",
+        "state": "FL",
+        "zip": null,
+        "country_code": "US",
+        "location": null,
+        "elevation": null,
+        "year_constructed": null,
+        "dome": true,
+        "timezone": null
+    },
+    {
+        "id": 3868,
+        "name": "Paladin Stadium",
+        "capacity": 16000,
+        "grass": false,
+        "city": "Greenville",
+        "state": "SC",
+        "zip": "29617",
+        "country_code": "US",
+        "location": {
+            "x": 34.920192,
+            "y": -82.4370917
+        },
+        "elevation": "303.2829285",
+        "year_constructed": 1981,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 5238,
+        "name": "Panther Stadium",
+        "capacity": 15000,
+        "grass": true,
+        "city": "Prairie View",
+        "state": "TX",
+        "zip": "28202",
+        "country_code": "US",
+        "location": {
+            "x": 30.0937874,
+            "y": -95.9960913
+        },
+        "elevation": "77.36286926",
+        "year_constructed": 2016,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3873,
+        "name": "Papa John's Cardinal Stadium",
+        "capacity": 55000,
+        "grass": false,
+        "city": "Louisville",
+        "state": "KY",
+        "zip": "40292",
+        "country_code": "US",
+        "location": {
+            "x": 38.2057621,
+            "y": -85.7588141
+        },
+        "elevation": "138.5615997",
+        "year_constructed": 1998,
+        "dome": false,
+        "timezone": "America/Kentucky/Louisville"
+    },
+    {
+        "id": 3874,
+        "name": "Paul Brown Stadium",
+        "capacity": 66515,
+        "grass": false,
+        "city": "Cincinnati",
+        "state": "OH",
+        "zip": "45202",
+        "country_code": "US",
+        "location": {
+            "x": 39.095555,
+            "y": -84.516071
+        },
+        "elevation": "146.3",
+        "year_constructed": 2000,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3608,
+        "name": "Paulson Stadium",
+        "capacity": 24300,
+        "grass": false,
+        "city": "Statesboro",
+        "state": "GA",
+        "zip": "30460",
+        "country_code": "US",
+        "location": {
+            "x": 32.4122471,
+            "y": -81.7849296
+        },
+        "elevation": "61.25376892",
+        "year_constructed": 1984,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3876,
+        "name": "Peden Stadium",
+        "capacity": 24000,
+        "grass": false,
+        "city": "Athens",
+        "state": "OH",
+        "zip": "45701",
+        "country_code": "US",
+        "location": {
+            "x": 39.3212794,
+            "y": -82.1034315
+        },
+        "elevation": "194.230896",
+        "year_constructed": 1929,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3878,
+        "name": "Plaster Sports Complex",
+        "capacity": 17500,
+        "grass": false,
+        "city": "Springfield",
+        "state": "MO",
+        "zip": "65897",
+        "country_code": "US",
+        "location": {
+            "x": 37.1976229,
+            "y": -93.2798119
+        },
+        "elevation": "402.368103",
+        "year_constructed": 1941,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3881,
+        "name": "Princeton University Stadium",
+        "capacity": 27800,
+        "grass": false,
+        "city": "Princeton",
+        "state": "NJ",
+        "zip": "8540 ",
+        "country_code": "US",
+        "location": {
+            "x": 40.3457928,
+            "y": -74.6500047
+        },
+        "elevation": "32.00296402",
+        "year_constructed": 1998,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3485,
+        "name": "Providence Park",
+        "capacity": 19566,
+        "grass": false,
+        "city": "Portland",
+        "state": "OR",
+        "zip": "97205",
+        "country_code": "US",
+        "location": {
+            "x": 45.5215978,
+            "y": -122.6916811
+        },
+        "elevation": "23.84255791",
+        "year_constructed": 1926,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 3882,
+        "name": "Provost Umphrey Stadium",
+        "capacity": 16000,
+        "grass": false,
+        "city": "Beaumont",
+        "state": "TX",
+        "zip": "77705",
+        "country_code": "US",
+        "location": {
+            "x": 30.04313,
+            "y": -94.069963
+        },
+        "elevation": "3.981505394",
+        "year_constructed": 1964,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3932,
+        "name": "Qualcomm Stadium",
+        "capacity": 70561,
+        "grass": false,
+        "city": "San Diego",
+        "state": "CA",
+        "zip": "92108",
+        "country_code": "US",
+        "location": {
+            "x": 32.7831122,
+            "y": -117.1195716
+        },
+        "elevation": "16.28476334",
+        "year_constructed": 1967,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 3886,
+        "name": "Raymond James Stadium",
+        "capacity": 65857,
+        "grass": false,
+        "city": "Tampa",
+        "state": "FL",
+        "zip": "33620",
+        "country_code": "US",
+        "location": {
+            "x": 27.9758691,
+            "y": -82.5033344
+        },
+        "elevation": "11.07972908",
+        "year_constructed": 1998,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3889,
+        "name": "Reinhart Field",
+        "capacity": 3500,
+        "grass": false,
+        "city": "Bronx",
+        "state": "NY",
+        "zip": "10465",
+        "country_code": "US",
+        "location": {
+            "x": 40.807528,
+            "y": -73.797744
+        },
+        "elevation": "7",
+        "year_constructed": 2012,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3892,
+        "name": "Rentschler Field",
+        "capacity": 40000,
+        "grass": false,
+        "city": "East Hartford",
+        "state": "CT",
+        "zip": "6118 ",
+        "country_code": "US",
+        "location": {
+            "x": 41.7595675,
+            "y": -72.6187728
+        },
+        "elevation": "6.515614986",
+        "year_constructed": 2003,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3893,
+        "name": "Reser Stadium",
+        "capacity": 45674,
+        "grass": false,
+        "city": "Corvallis",
+        "state": "OR",
+        "zip": "97331",
+        "country_code": "US",
+        "location": {
+            "x": 44.5594559,
+            "y": -123.2814341
+        },
+        "elevation": "66.90744781",
+        "year_constructed": 1953,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 3491,
+        "name": "RFK Stadium",
+        "capacity": 45596,
+        "grass": true,
+        "city": "Washington",
+        "state": "DC",
+        "zip": "20003",
+        "country_code": "US",
+        "location": {
+            "x": 38.88981,
+            "y": -76.971809
+        },
+        "elevation": "3.029993296",
+        "year_constructed": 1961,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3894,
+        "name": "Rhodes Stadium",
+        "capacity": 11250,
+        "grass": true,
+        "city": "Elon",
+        "state": "NC",
+        "zip": "77493",
+        "country_code": "US",
+        "location": {
+            "x": 36.1101269,
+            "y": -79.5079979
+        },
+        "elevation": "204.2487793",
+        "year_constructed": 2001,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 587,
+        "name": "Rice-Eccles Stadium",
+        "capacity": 45807,
+        "grass": false,
+        "city": "Salt Lake City",
+        "state": "UT",
+        "zip": "84112",
+        "country_code": "US",
+        "location": {
+            "x": 40.7599724,
+            "y": -111.8488255
+        },
+        "elevation": "1411.543579",
+        "year_constructed": 1998,
+        "dome": false,
+        "timezone": "America/Denver"
+    },
+    {
+        "id": 3895,
+        "name": "Rice Stadium",
+        "capacity": 47000,
+        "grass": false,
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77251",
+        "country_code": "US",
+        "location": {
+            "x": 29.7163297,
+            "y": -95.4093261
+        },
+        "elevation": "7.148301601",
+        "year_constructed": 1950,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3896,
+        "name": "Rice-Totten Field",
+        "capacity": 10000,
+        "grass": true,
+        "city": "Itta Bena",
+        "state": "MS",
+        "zip": "38941",
+        "country_code": "US",
+        "location": {
+            "x": 33.5118304,
+            "y": -90.3397718
+        },
+        "elevation": "39.88368607",
+        "year_constructed": 1958,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3897,
+        "name": "Richardson Stadium",
+        "capacity": 6000,
+        "grass": false,
+        "city": "Davidson",
+        "state": "NC",
+        "zip": "28036",
+        "country_code": "US",
+        "location": {
+            "x": 35.4995744,
+            "y": -80.8428419
+        },
+        "elevation": "249.4658203",
+        "year_constructed": 1923,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 453,
+        "name": "Robertson Stadium",
+        "capacity": 32000,
+        "grass": false,
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77004",
+        "country_code": "US",
+        "location": {
+            "x": 29.722053,
+            "y": -95.349175
+        },
+        "elevation": "9.6",
+        "year_constructed": 1942,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3905,
+        "name": "Romney Stadium",
+        "capacity": 25513,
+        "grass": false,
+        "city": "Logan",
+        "state": "UT",
+        "zip": "84322",
+        "country_code": "US",
+        "location": {
+            "x": 41.7517394,
+            "y": -111.8116007
+        },
+        "elevation": "1427.914429",
+        "year_constructed": 1968,
+        "dome": false,
+        "timezone": "America/Denver"
+    },
+    {
+        "id": 3906,
+        "name": "Roos Field",
+        "capacity": 8600,
+        "grass": false,
+        "city": "Cheney",
+        "state": "WA",
+        "zip": "99004",
+        "country_code": "US",
+        "location": {
+            "x": 47.49278,
+            "y": -117.587353
+        },
+        "elevation": "750.2774658",
+        "year_constructed": 1967,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 1056,
+        "name": "Rose Bowl",
+        "capacity": 92542,
+        "grass": false,
+        "city": "Pasadena",
+        "state": "CA",
+        "zip": "90095",
+        "country_code": "US",
+        "location": {
+            "x": 34.1613284,
+            "y": -118.1676462
+        },
+        "elevation": "245.1772461",
+        "year_constructed": 1922,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 3907,
+        "name": "Ross-Ade Stadium",
+        "capacity": 57236,
+        "grass": false,
+        "city": "West Lafayette",
+        "state": "IN",
+        "zip": "47907",
+        "country_code": "US",
+        "location": {
+            "x": 40.4352253,
+            "y": -86.9186843
+        },
+        "elevation": "197.5337677",
+        "year_constructed": 1924,
+        "dome": false,
+        "timezone": "America/Indiana/Indianapolis"
+    },
+    {
+        "id": 3908,
+        "name": "Roy Kidd Stadium",
+        "capacity": 20000,
+        "grass": false,
+        "city": "Richmond",
+        "state": "KY",
+        "zip": "40475",
+        "country_code": "US",
+        "location": {
+            "x": 37.7344109,
+            "y": -84.2972854
+        },
+        "elevation": "298.1834717",
+        "year_constructed": 1969,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3909,
+        "name": "Roy Stewart Stadium",
+        "capacity": 16800,
+        "grass": false,
+        "city": "Murray",
+        "state": "KY",
+        "zip": "42071",
+        "country_code": "US",
+        "location": {
+            "x": 36.6215165,
+            "y": -88.3175531
+        },
+        "elevation": "152.6495667",
+        "year_constructed": 1973,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3911,
+        "name": "Ryan Field",
+        "capacity": 47130,
+        "grass": false,
+        "city": "Evanston",
+        "state": "IL",
+        "zip": "60208",
+        "country_code": "US",
+        "location": {
+            "x": 42.0653994,
+            "y": -87.6924751
+        },
+        "elevation": "181.2376099",
+        "year_constructed": 1926,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3912,
+        "name": "Rynearson Stadium",
+        "capacity": 30200,
+        "grass": false,
+        "city": "Ypsilanti",
+        "state": "MI",
+        "zip": "48197",
+        "country_code": "US",
+        "location": {
+            "x": 42.256126,
+            "y": -83.647285
+        },
+        "elevation": "241.248764",
+        "year_constructed": 1969,
+        "dome": false,
+        "timezone": "America/Detroit"
+    },
+    {
+        "id": 3913,
+        "name": "Saluki Stadium",
+        "capacity": 15276,
+        "grass": false,
+        "city": "Carbondale",
+        "state": "IL",
+        "zip": "62901",
+        "country_code": "US",
+        "location": {
+            "x": 37.708637,
+            "y": -89.216212
+        },
+        "elevation": "126.7586365",
+        "year_constructed": 2010,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3914,
+        "name": "Sam Boyd Stadium",
+        "capacity": 36800,
+        "grass": false,
+        "city": "Whitney",
+        "state": "NV",
+        "zip": "89154",
+        "country_code": "US",
+        "location": {
+            "x": 36.085935,
+            "y": -115.01731
+        },
+        "elevation": "490.0622253",
+        "year_constructed": 1971,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 3917,
+        "name": "Sanford Stadium",
+        "capacity": 92746,
+        "grass": true,
+        "city": "Athens",
+        "state": "GA",
+        "zip": "30602",
+        "country_code": "US",
+        "location": {
+            "x": 33.9498197,
+            "y": -83.3733813
+        },
+        "elevation": "186.1120758",
+        "year_constructed": 1929,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3919,
+        "name": "Scheumann Stadium",
+        "capacity": 22500,
+        "grass": false,
+        "city": "Muncie",
+        "state": "IN",
+        "zip": "47306",
+        "country_code": "US",
+        "location": {
+            "x": 40.2159422,
+            "y": -85.4161148
+        },
+        "elevation": "285.481781",
+        "year_constructed": 1967,
+        "dome": false,
+        "timezone": "America/Indiana/Indianapolis"
+    },
+    {
+        "id": 3921,
+        "name": "Schoellkopf Field",
+        "capacity": 25597,
+        "grass": false,
+        "city": "Ithaca",
+        "state": "NY",
+        "zip": "14850",
+        "country_code": "US",
+        "location": {
+            "x": 42.4439016,
+            "y": -76.4785398
+        },
+        "elevation": "257.3187561",
+        "year_constructed": 1915,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3923,
+        "name": "Scott Stadium",
+        "capacity": 61500,
+        "grass": false,
+        "city": "Charlottesville",
+        "state": "VA",
+        "zip": "22904",
+        "country_code": "US",
+        "location": {
+            "x": 38.0311801,
+            "y": -78.5137897
+        },
+        "elevation": "170.4677429",
+        "year_constructed": 1931,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3925,
+        "name": "Seibert Stadium",
+        "capacity": 6700,
+        "grass": false,
+        "city": "Homewood",
+        "state": "AL",
+        "zip": "35229",
+        "country_code": "US",
+        "location": {
+            "x": 33.463273,
+            "y": -86.795326
+        },
+        "elevation": "208.0207825",
+        "year_constructed": 1958,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3926,
+        "name": "Setzler Field",
+        "capacity": 4000,
+        "grass": null,
+        "city": "Newberry",
+        "state": "SC",
+        "zip": null,
+        "country_code": "US",
+        "location": {
+            "x": 34.286133,
+            "y": -81.622539
+        },
+        "elevation": "160.5950775",
+        "year_constructed": 1922,
+        "dome": false,
+        "timezone": null
+    },
+    {
+        "id": 3928,
+        "name": "Shotwell Stadium",
+        "capacity": 15075,
+        "grass": false,
+        "city": "Abilene",
+        "state": "TX",
+        "zip": "79602",
+        "country_code": "US",
+        "location": {
+            "x": 32.4336917,
+            "y": -99.6986246
+        },
+        "elevation": "530.4555664",
+        "year_constructed": 1959,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3674,
+        "name": "Skelly Field at H. A. Chapman Stadium",
+        "capacity": 30000,
+        "grass": false,
+        "city": "Tulsa",
+        "state": "OK",
+        "zip": "74194",
+        "country_code": "US",
+        "location": {
+            "x": 36.1489175,
+            "y": -95.9437853
+        },
+        "elevation": "235.5928345",
+        "year_constructed": 1930,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3933,
+        "name": "Soldier Field",
+        "capacity": 61500,
+        "grass": true,
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60605",
+        "country_code": "US",
+        "location": {
+            "x": 41.8625,
+            "y": -87.616667
+        },
+        "elevation": "177.420578",
+        "year_constructed": 1924,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3761,
+        "name": "Sonny Lubick Field at Hughes Stadium",
+        "capacity": 34400,
+        "grass": false,
+        "city": "Fort Collins",
+        "state": "CO",
+        "zip": "80526",
+        "country_code": "US",
+        "location": {
+            "x": 40.5621183,
+            "y": -105.1416248
+        },
+        "elevation": "1574.920898",
+        "year_constructed": 1968,
+        "dome": false,
+        "timezone": "America/Denver"
+    },
+    {
+        "id": 3936,
+        "name": "Spartan Stadium",
+        "capacity": 75005,
+        "grass": false,
+        "city": "East Lansing",
+        "state": "MI",
+        "zip": "48824",
+        "country_code": "US",
+        "location": {
+            "x": 42.7281474,
+            "y": -84.4848526
+        },
+        "elevation": "254.8794861",
+        "year_constructed": 1923,
+        "dome": false,
+        "timezone": "America/Detroit"
+    },
+    {
+        "id": 3935,
+        "name": "Spartan Stadium",
+        "capacity": 30456,
+        "grass": false,
+        "city": "San Jose",
+        "state": "CA",
+        "zip": "95112",
+        "country_code": "US",
+        "location": {
+            "x": 37.3196675,
+            "y": -121.8682962
+        },
+        "elevation": "28.30708694",
+        "year_constructed": 1933,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 4416,
+        "name": "Spec Martin Municipal Stadium",
+        "capacity": 6000,
+        "grass": null,
+        "city": "DeLand",
+        "state": "FL",
+        "zip": null,
+        "country_code": "US",
+        "location": {
+            "x": 29.0208575,
+            "y": -81.2993746
+        },
+        "elevation": "14.65544891",
+        "year_constructed": 1941,
+        "dome": false,
+        "timezone": null
+    },
+    {
+        "id": 3937,
+        "name": "Sports Authority Field at Mile High",
+        "capacity": 76273,
+        "grass": true,
+        "city": "Denver",
+        "state": "CO",
+        "zip": "80204",
+        "country_code": "US",
+        "location": {
+            "x": 39.743889,
+            "y": -105.02
+        },
+        "elevation": "1583.532593",
+        "year_constructed": 2001,
+        "dome": false,
+        "timezone": "America/Denver"
+    },
+    {
+        "id": 844,
+        "name": "Stambaugh Stadium",
+        "capacity": 20650,
+        "grass": false,
+        "city": "Youngstown",
+        "state": "OH",
+        "zip": "44502",
+        "country_code": "US",
+        "location": {
+            "x": 41.1092964,
+            "y": -80.6501885
+        },
+        "elevation": "298.8893127",
+        "year_constructed": 1982,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3940,
+        "name": "Stanford Stadium",
+        "capacity": 50424,
+        "grass": false,
+        "city": "Stanford",
+        "state": "CA",
+        "zip": "94305",
+        "country_code": "US",
+        "location": {
+            "x": 37.4345556,
+            "y": -122.1611271
+        },
+        "elevation": "18.38425636",
+        "year_constructed": 2006,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 5263,
+        "name": "Steele Stadium",
+        "capacity": 3000,
+        "grass": null,
+        "city": "Owensboro",
+        "state": "KY",
+        "zip": null,
+        "country_code": "US",
+        "location": {
+            "x": 37.742297,
+            "y": -87.119976
+        },
+        "elevation": "122.5809097",
+        "year_constructed": 2004,
+        "dome": false,
+        "timezone": null
+    },
+    {
+        "id": 3716,
+        "name": "Stewart \"\"Red\"\" Faught Stadium",
+        "capacity": 4000,
+        "grass": null,
+        "city": "Franklin",
+        "state": "IN",
+        "zip": null,
+        "country_code": "US",
+        "location": null,
+        "elevation": "222.7",
+        "year_constructed": 1999,
+        "dome": false,
+        "timezone": null
+    },
+    {
+        "id": 3942,
+        "name": "Stewart Stadium",
+        "capacity": 17000,
+        "grass": false,
+        "city": "Ogden",
+        "state": "UT",
+        "zip": "84408",
+        "country_code": "US",
+        "location": {
+            "x": 41.1918741,
+            "y": -111.9401391
+        },
+        "elevation": "1451.553711",
+        "year_constructed": 1966,
+        "dome": false,
+        "timezone": "America/Denver"
+    },
+    {
+        "id": 3944,
+        "name": "Strawberry Stadium",
+        "capacity": 7408,
+        "grass": false,
+        "city": "Hammond",
+        "state": "LA",
+        "zip": "70401",
+        "country_code": "US",
+        "location": {
+            "x": 30.5110264,
+            "y": -90.4685792
+        },
+        "elevation": "13.7104578",
+        "year_constructed": 1936,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 538,
+        "name": "StubHub Center",
+        "capacity": 0,
+        "grass": false,
+        "city": "Carson",
+        "state": "CA",
+        "zip": null,
+        "country_code": "US",
+        "location": null,
+        "elevation": null,
+        "year_constructed": null,
+        "dome": null,
+        "timezone": null
+    },
+    {
+        "id": 3768,
+        "name": "Summa Field at InfoCision Stadium",
+        "capacity": 30000,
+        "grass": false,
+        "city": "Akron",
+        "state": "OH",
+        "zip": "44399",
+        "country_code": "US",
+        "location": {
+            "x": 41.0725534,
+            "y": -81.5083408
+        },
+        "elevation": "321.2875061",
+        "year_constructed": 2009,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3946,
+        "name": "Sun Bowl Stadium",
+        "capacity": 51500,
+        "grass": false,
+        "city": "El Paso",
+        "state": "TX",
+        "zip": "79968",
+        "country_code": "US",
+        "location": {
+            "x": 31.7733353,
+            "y": -106.507957
+        },
+        "elevation": "1183.697876",
+        "year_constructed": 1963,
+        "dome": false,
+        "timezone": "America/Denver"
+    },
+    {
+        "id": 3947,
+        "name": "Sun Devil Stadium",
+        "capacity": 56232,
+        "grass": false,
+        "city": "Tempe",
+        "state": "AZ",
+        "zip": "85287",
+        "country_code": "US",
+        "location": {
+            "x": 33.4264471,
+            "y": -111.9325005
+        },
+        "elevation": "360.1569519",
+        "year_constructed": 1958,
+        "dome": false,
+        "timezone": "America/Phoenix"
+    },
+    {
+        "id": 5319,
+        "name": "SunTrust Park",
+        "capacity": 41084,
+        "grass": true,
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30339",
+        "country_code": "US",
+        "location": {
+            "x": 33.890817,
+            "y": -84.467656
+        },
+        "elevation": "289.7",
+        "year_constructed": 2017,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3950,
+        "name": "Superior Dome",
+        "capacity": 8000,
+        "grass": false,
+        "city": "Marquette",
+        "state": "MI",
+        "zip": "70118",
+        "country_code": "US",
+        "location": {
+            "x": 46.560589,
+            "y": -87.393741
+        },
+        "elevation": "186.4",
+        "year_constructed": 1991,
+        "dome": false,
+        "timezone": "America/Detroit"
+    },
+    {
+        "id": 3953,
+        "name": "TCF Bank Stadium",
+        "capacity": 50805,
+        "grass": false,
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip": "55488",
+        "country_code": "US",
+        "location": {
+            "x": 44.976525,
+            "y": -93.2245462
+        },
+        "elevation": "254.3902283",
+        "year_constructed": 2009,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3952,
+        "name": "Ted Wright Stadium",
+        "capacity": 7500,
+        "grass": false,
+        "city": "Savannah",
+        "state": "GA",
+        "zip": "31404",
+        "country_code": "US",
+        "location": {
+            "x": 32.0274346,
+            "y": -81.0687492
+        },
+        "elevation": "6.564679146",
+        "year_constructed": 1967,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 4750,
+        "name": "The Reservation",
+        "capacity": 10000,
+        "grass": null,
+        "city": "Gaffney",
+        "state": "SC",
+        "zip": null,
+        "country_code": "US",
+        "location": null,
+        "elevation": "212.4",
+        "year_constructed": 2008,
+        "dome": false,
+        "timezone": null
+    },
+    {
+        "id": 4779,
+        "name": "Thomas Robinson Stadium",
+        "capacity": 15023,
+        "grass": true,
+        "city": "Nassau",
+        "state": "",
+        "zip": null,
+        "country_code": "BS",
+        "location": {
+            "x": 25.055569,
+            "y": -77.358736
+        },
+        "elevation": "3.182889223",
+        "year_constructed": 1981,
+        "dome": false,
+        "timezone": null
+    },
+    {
+        "id": 3958,
+        "name": "Tiger Stadium",
+        "capacity": 102321,
+        "grass": true,
+        "city": "Baton Rouge",
+        "state": "LA",
+        "zip": "70803",
+        "country_code": "US",
+        "location": {
+            "x": 30.412035,
+            "y": -91.1838163
+        },
+        "elevation": "7.640734673",
+        "year_constructed": 1924,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 716,
+        "name": "Torero Stadium",
+        "capacity": 6000,
+        "grass": true,
+        "city": "San Diego",
+        "state": "CA",
+        "zip": "92111",
+        "country_code": "US",
+        "location": {
+            "x": 32.7730674,
+            "y": -117.183721
+        },
+        "elevation": "57.95064545",
+        "year_constructed": 1961,
+        "dome": false,
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 5096,
+        "name": "Toyota Stadium",
+        "capacity": 5000,
+        "grass": null,
+        "city": "Georgetown",
+        "state": "KY",
+        "zip": null,
+        "country_code": "US",
+        "location": {
+            "x": 38.204444,
+            "y": -84.545556
+        },
+        "elevation": "270.7148743",
+        "year_constructed": 1997,
+        "dome": false,
+        "timezone": null
+    },
+    {
+        "id": 1400,
+        "name": "Toyota Stadium",
+        "capacity": 20500,
+        "grass": true,
+        "city": "Frisco",
+        "state": "TX",
+        "zip": "75033",
+        "country_code": "US",
+        "location": {
+            "x": 33.154444,
+            "y": -96.835278
+        },
+        "elevation": "181.3815918",
+        "year_constructed": 2005,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 4113,
+        "name": "Tropicana Field",
+        "capacity": 31042,
+        "grass": false,
+        "city": "Saint Petersburg",
+        "state": "FL",
+        "zip": "33705",
+        "country_code": "US",
+        "location": {
+            "x": 27.768333,
+            "y": -82.653333
+        },
+        "elevation": "12.19581413",
+        "year_constructed": 1990,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3962,
+        "name": "Tucker Stadium",
+        "capacity": 16500,
+        "grass": false,
+        "city": "Cookeville",
+        "state": "TN",
+        "zip": "38501",
+        "country_code": "US",
+        "location": {
+            "x": 36.1780555,
+            "y": -85.506183
+        },
+        "elevation": "340.8609314",
+        "year_constructed": 1966,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 5015,
+        "name": "Turner Stadium",
+        "capacity": 4400,
+        "grass": null,
+        "city": "Upland",
+        "state": "IN",
+        "zip": null,
+        "country_code": "US",
+        "location": {
+            "x": 40.456862,
+            "y": -85.501228
+        },
+        "elevation": "282.0275574",
+        "year_constructed": 2015,
+        "dome": false,
+        "timezone": null
+    },
+    {
+        "id": 3965,
+        "name": "UB Stadium",
+        "capacity": 29013,
+        "grass": false,
+        "city": "Amherst",
+        "state": "NY",
+        "zip": "14260",
+        "country_code": "US",
+        "location": {
+            "x": 42.9991334,
+            "y": -78.7775113
+        },
+        "elevation": "181.5759735",
+        "year_constructed": 1993,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3967,
+        "name": "UNI-Dome",
+        "capacity": 16000,
+        "grass": false,
+        "city": "Cedar Falls",
+        "state": "IA",
+        "zip": "50614",
+        "country_code": "US",
+        "location": {
+            "x": 42.5156111,
+            "y": -92.4672307
+        },
+        "elevation": "281.8959656",
+        "year_constructed": 1976,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3969,
+        "name": "University Field (NY)",
+        "capacity": 10000,
+        "grass": true,
+        "city": "Albany",
+        "state": "NY",
+        "zip": "12206",
+        "country_code": "US",
+        "location": {
+            "x": 42.680981,
+            "y": -73.827276
+        },
+        "elevation": "70.1",
+        "year_constructed": 1970,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3970,
+        "name": "University of Phoenix Stadium",
+        "capacity": 63400,
+        "grass": true,
+        "city": "Glendale",
+        "state": "AZ",
+        "zip": "85305",
+        "country_code": "US",
+        "location": {
+            "x": 33.527607,
+            "y": -112.262559
+        },
+        "elevation": "325.6211243",
+        "year_constructed": 2006,
+        "dome": false,
+        "timezone": "America/Phoenix"
+    },
+    {
+        "id": 3971,
+        "name": "University Stadium",
+        "capacity": 39224,
+        "grass": false,
+        "city": "Albuquerque",
+        "state": "NM",
+        "zip": "87131",
+        "country_code": "US",
+        "location": {
+            "x": 35.0669479,
+            "y": -106.6283225
+        },
+        "elevation": "1554.471924",
+        "year_constructed": 1960,
+        "dome": false,
+        "timezone": "America/Denver"
+    },
+    {
+        "id": 3973,
+        "name": "Vanderbilt Stadium",
+        "capacity": 40350,
+        "grass": false,
+        "city": "Nashville",
+        "state": "TN",
+        "zip": "37212",
+        "country_code": "US",
+        "location": {
+            "x": 36.1440455,
+            "y": -86.8088942
+        },
+        "elevation": "159.9194641",
+        "year_constructed": 1922,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3974,
+        "name": "Vaught-Hemingway Stadium",
+        "capacity": 64038,
+        "grass": true,
+        "city": "Oxford",
+        "state": "MS",
+        "zip": "38677",
+        "country_code": "US",
+        "location": {
+            "x": 34.3619837,
+            "y": -89.5342076
+        },
+        "elevation": "146.8517151",
+        "year_constructed": 1915,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3975,
+        "name": "Veterans Memorial Stadium",
+        "capacity": 30000,
+        "grass": false,
+        "city": "Troy",
+        "state": "AL",
+        "zip": "36082",
+        "country_code": "US",
+        "location": {
+            "x": 31.7995565,
+            "y": -85.9518328
+        },
+        "elevation": "154.7746277",
+        "year_constructed": 1950,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 717,
+        "name": "Villanova Stadium",
+        "capacity": 12500,
+        "grass": false,
+        "city": "Villanova",
+        "state": "PA",
+        "zip": "19085",
+        "country_code": "US",
+        "location": {
+            "x": 40.0343329,
+            "y": -75.3367666
+        },
+        "elevation": "127.3836746",
+        "year_constructed": 1927,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3979,
+        "name": "Wagner College Stadium",
+        "capacity": 3300,
+        "grass": false,
+        "city": "Staten Island",
+        "state": "NY",
+        "zip": "10301",
+        "country_code": "US",
+        "location": {
+            "x": 40.614688,
+            "y": -74.090639
+        },
+        "elevation": "63.39014053",
+        "year_constructed": 1967,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3980,
+        "name": "Waldo Stadium",
+        "capacity": 30200,
+        "grass": false,
+        "city": "Kalamazoo",
+        "state": "MI",
+        "zip": "49008",
+        "country_code": "US",
+        "location": {
+            "x": 42.2860064,
+            "y": -85.6007573
+        },
+        "elevation": "243.8211212",
+        "year_constructed": 1939,
+        "dome": false,
+        "timezone": "America/Detroit"
+    },
+    {
+        "id": 2023,
+        "name": "Walkup Skydome",
+        "capacity": 15300,
+        "grass": false,
+        "city": "Flagstaff",
+        "state": "AZ",
+        "zip": "86001",
+        "country_code": "US",
+        "location": {
+            "x": 35.1805483,
+            "y": -111.6528377
+        },
+        "elevation": "2097.884766",
+        "year_constructed": 1977,
+        "dome": false,
+        "timezone": "America/Phoenix"
+    },
+    {
+        "id": 3982,
+        "name": "Wallace Wade Stadium",
+        "capacity": 40000,
+        "grass": false,
+        "city": "Durham",
+        "state": "NC",
+        "zip": "27708",
+        "country_code": "US",
+        "location": {
+            "x": 35.9953688,
+            "y": -78.9417564
+        },
+        "elevation": "103.0028152",
+        "year_constructed": 1929,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3983,
+        "name": "War Memorial Stadium",
+        "capacity": 54120,
+        "grass": false,
+        "city": "Little Rock",
+        "state": "AR",
+        "zip": "72205",
+        "country_code": "US",
+        "location": {
+            "x": 34.749848,
+            "y": -92.330127
+        },
+        "elevation": "112.1398163",
+        "year_constructed": 1948,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 3984,
+        "name": "War Memorial Stadium",
+        "capacity": 29181,
+        "grass": false,
+        "city": "Laramie",
+        "state": "WY",
+        "zip": "82071",
+        "country_code": "US",
+        "location": {
+            "x": 41.31161,
+            "y": -105.5681384
+        },
+        "elevation": "2200.153564",
+        "year_constructed": 1950,
+        "dome": false,
+        "timezone": "America/Denver"
+    },
+    {
+        "id": 3985,
+        "name": "Warren McGuirk Alumni Stadium",
+        "capacity": 17000,
+        "grass": false,
+        "city": "Hadley",
+        "state": "MA",
+        "zip": "1003 ",
+        "country_code": "US",
+        "location": {
+            "x": 42.3773244,
+            "y": -72.5360595
+        },
+        "elevation": "46.58664703",
+        "year_constructed": 1965,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3987,
+        "name": "Washington-Grizzly Stadium",
+        "capacity": 25200,
+        "grass": false,
+        "city": "Missoula",
+        "state": "MT",
+        "zip": "59812",
+        "country_code": "US",
+        "location": {
+            "x": 46.8638753,
+            "y": -113.9815042
+        },
+        "elevation": "970.345459",
+        "year_constructed": 1986,
+        "dome": false,
+        "timezone": "America/Denver"
+    },
+    {
+        "id": 3988,
+        "name": "Welcome Stadium",
+        "capacity": 11000,
+        "grass": false,
+        "city": "Dayton",
+        "state": "OH",
+        "zip": "45417",
+        "country_code": "US",
+        "location": {
+            "x": 39.7369239,
+            "y": -84.1981068
+        },
+        "elevation": "222.4020081",
+        "year_constructed": 1949,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3688,
+        "name": "Wildcat Stadium",
+        "capacity": 11015,
+        "grass": false,
+        "city": "Durham",
+        "state": "NH",
+        "zip": "3824 ",
+        "country_code": "US",
+        "location": {
+            "x": 43.1386231,
+            "y": -70.9393077
+        },
+        "elevation": "19.05943298",
+        "year_constructed": 1936,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 5440,
+        "name": "Wildcat Stadium (TX)",
+        "capacity": 12000,
+        "grass": false,
+        "city": "Abilene",
+        "state": "TX",
+        "zip": "79601",
+        "country_code": "US",
+        "location": {
+            "x": 32.472275,
+            "y": -99.710464
+        },
+        "elevation": "520.9",
+        "year_constructed": 2017,
+        "dome": false,
+        "timezone": "America/Chicago"
+    },
+    {
+        "id": 5400,
+        "name": "William B. Greene Jr. Stadium",
+        "capacity": 7694,
+        "grass": false,
+        "city": "Johnson City",
+        "state": "TN",
+        "zip": "37604",
+        "country_code": "US",
+        "location": {
+            "x": 36.299084,
+            "y": -82.374117
+        },
+        "elevation": "512.5",
+        "year_constructed": 2017,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3991,
+        "name": "William Dick\"\" Price Stadium\"\"",
+        "capacity": 30000,
+        "grass": false,
+        "city": "Norfolk",
+        "state": "VA",
+        "zip": "23504",
+        "country_code": "US",
+        "location": {
+            "x": 36.8469442,
+            "y": -76.2600839
+        },
+        "elevation": "4.916433334",
+        "year_constructed": 1997,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3990,
+        "name": "William H. Greene Stadium",
+        "capacity": 7086,
+        "grass": false,
+        "city": "Washington",
+        "state": "DC",
+        "zip": "20059",
+        "country_code": "US",
+        "location": {
+            "x": 38.925487,
+            "y": -77.021047
+        },
+        "elevation": "53.46718979",
+        "year_constructed": 1926,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3994,
+        "name": "Williams-Brice Stadium",
+        "capacity": 80250,
+        "grass": true,
+        "city": "Columbia",
+        "state": "SC",
+        "zip": "29208",
+        "country_code": "US",
+        "location": {
+            "x": 33.9730239,
+            "y": -81.0191726
+        },
+        "elevation": "60.54548645",
+        "year_constructed": 1934,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3992,
+        "name": "Williams Stadium",
+        "capacity": 19200,
+        "grass": false,
+        "city": "Lynchburg",
+        "state": "VA",
+        "zip": "24502",
+        "country_code": "US",
+        "location": {
+            "x": 37.3544305,
+            "y": -79.1750239
+        },
+        "elevation": "272.9237061",
+        "year_constructed": 1989,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 4250,
+        "name": "Wrigley Field",
+        "capacity": 0,
+        "grass": null,
+        "city": "Chicago",
+        "state": "IL",
+        "zip": null,
+        "country_code": "US",
+        "location": null,
+        "elevation": null,
+        "year_constructed": null,
+        "dome": false,
+        "timezone": null
+    },
+    {
+        "id": 3996,
+        "name": "Yager Stadium",
+        "capacity": 24286,
+        "grass": false,
+        "city": "Oxford",
+        "state": "OH",
+        "zip": "45056",
+        "country_code": "US",
+        "location": {
+            "x": 39.5197009,
+            "y": -84.7330255
+        },
+        "elevation": "242.2643585",
+        "year_constructed": 1983,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3997,
+        "name": "Yale Bowl",
+        "capacity": 61446,
+        "grass": false,
+        "city": "New Haven",
+        "state": "CT",
+        "zip": "6520 ",
+        "country_code": "US",
+        "location": {
+            "x": 41.3132441,
+            "y": -72.9605333
+        },
+        "elevation": "5.302621841",
+        "year_constructed": 1914,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 4102,
+        "name": "Yankee Stadium",
+        "capacity": 54251,
+        "grass": false,
+        "city": "New York",
+        "state": "NY",
+        "zip": "10451",
+        "country_code": "US",
+        "location": {
+            "x": 40.829167,
+            "y": -73.926389
+        },
+        "elevation": "6.745362282",
+        "year_constructed": 2009,
+        "dome": false,
+        "timezone": "America/New_York"
+    },
+    {
+        "id": 3998,
+        "name": "Zable Stadium",
+        "capacity": 12259,
+        "grass": false,
+        "city": "Williamsburg",
+        "state": "VA",
+        "zip": "23186",
+        "country_code": "US",
+        "location": {
+            "x": 37.2730996,
+            "y": -76.7137202
+        },
+        "elevation": "26.07615852",
+        "year_constructed": 1935,
+        "dome": false,
+        "timezone": "America/New_York"
+    }
+]

@@ -1,6 +1,5 @@
 import os
 import json
-import requests
 from py2neo import Graph
 
 scheme = os.environ.get('SCHEME')
@@ -19,86 +18,20 @@ graph = Graph(
     )
 )
 
-def get_conferences():
+with open('data/conferences.json') as conferences_file:
+    conferences = json.load(conferences_file)
 
-    url = "https://api.collegefootballdata.com/conferences"
+with open('data/teams.json') as teams_file:
+    teams = json.load(teams_file)
 
-    payload = {}
-    headers = {}
+with open('data/games.json') as games_file:
+    games = json.load(games_file)
 
-    response = requests.request("GET", url, headers=headers, data=payload)
+with open('data/drives.json') as drives_file:
+    drives = json.load(drives_file)
 
-    conferences = json.loads(response.text)
-
-    return conferences
-
-def get_teams():
-    url = "https://api.collegefootballdata.com/teams"
-
-    payload = {}
-    headers = {}
-
-    response = requests.request("GET", url, headers=headers, data=payload)
-
-    teams = json.loads(response.text)
-
-    return teams
-
-def get_venues():
-    url = "https://api.collegefootballdata.com/venues"
-
-    payload = {}
-    headers = {}
-
-    response = requests.request("GET", url, headers=headers, data=payload)
-
-    venues = json.loads(response.text)
-
-    return venues
-
-def get_games():
-
-    url = "https://api.collegefootballdata.com/games?year=2019&seasonType=regular"
-
-    payload = {}
-    headers = {}
-
-    response = requests.request("GET", url, headers=headers, data=payload)
-
-    games = json.loads(response.text)
-
-    return games
-
-def get_drives():
-    url = "https://api.collegefootballdata.com/drives?year=2019&seasonType=regular"
-
-    payload = {}
-    headers = {}
-
-    response = requests.request("GET", url, headers=headers, data=payload)
-
-    drives = json.loads(response.text)
-
-    return drives
-
-def get_plays():
-    url = "https://api.collegefootballdata.com/plays?year=2019&seasonType=regular"
-
-    payload = {}
-    headers = {}
-
-    response = requests.request("GET", url, headers=headers, data=payload)
-
-    games = json.loads(response.text)
-
-    return games
-
-conferences = get_conferences()
-teams = get_teams()
-venues = get_venues()
-games = get_games()
-drives = get_drives()
-#plays = get_plays()
+with open('data/venues.json') as venues_file:
+    venues = json.load(venues_file)
 
 graph.run('''
     WITH $json as data
@@ -152,7 +85,7 @@ graph.run('''
         game.week = g.week,
         game.weekId = toString(g.season) + toString(g.week),
         game.seasonType = g.season_type,
-        game.name = g.awayTeam + ' vs ' + g.homeTeam
+        game.name = g.awayTeam + ' vs ' + g.homeTeam,
         game.startDate = datetime(g.start_date),
         game.startTime = g.start_time_tbd,
         game.neutralSite = g.neutral_site,
