@@ -33,16 +33,16 @@ with open('data/drives.json') as drives_file:
 with open('data/venues.json') as venues_file:
     venues = json.load(venues_file)
 
-graph.run('''
+conferences_cypher = '''
     WITH $json as data
     UNWIND data as c
     MERGE (conference:Conference {conferenceId:c.id})
     SET conference.name = c.name,
         conference.shortName = c.short_name,
         conference.abbreviation = c.abbreviation
-''', json=conferences)
+'''
 
-graph.run('''
+teams_cypher = '''
     WITH $json as data
     UNWIND data as t
     MERGE (team:Team {teamId:t.id})
@@ -56,9 +56,9 @@ graph.run('''
         team.division = t.division,
         team.color = t.color,
         team.altColor = t.alt_color
-''', json=teams)
+'''
 
-graph.run('''
+venues_cypher = '''
     WITH $json as data
     UNWIND data as v
     MERGE (venue:Venue {venueId: v.id})
@@ -73,19 +73,24 @@ graph.run('''
         venue.yearConstructed = v.year_constructed,
         venue.dome = v.dome,
         venue.timezone = v.timezone
-''', json=venues)
+'''
 
-graph.run('''
+games_cypher = '''
     WITH $json as data
     UNWIND data as g
     MERGE (season:Season {seasonId: g.season})
     MERGE (week:Week {weekId: toString(g.season) + toString(g.week)})
-    MERGE (game:Game {gameId: g.id})
+    MERGE (game:Game {gameId: g.id, venueId: g.venue_id, homeTeam: g.home_team, awayTeam: g.away_team})
+    MERGE (Season)-[:HAS_WEEK]->(Week)
+    MERGE (Week)-[:HAS_GAME]->(Game)
+    MERGE (home:Team {school: g.home_team})
+    MERGE (away:Team {school: g.away_team})
+    MERGE (away)<-[rAway:HAS_PARTICIPANT_TEAM]-(game)-[rHome:HAS_PARTICIPANT_TEAM]->(home)
     SET game.season = g.season,
         game.week = g.week,
         game.weekId = toString(g.season) + toString(g.week),
         game.seasonType = g.season_type,
-        game.name = g.awayTeam + ' vs ' + g.homeTeam,
+        game.name = g.away_team + ' vs ' + g.home_team,
         game.startDate = datetime(g.start_date),
         game.startTime = g.start_time_tbd,
         game.neutralSite = g.neutral_site,
@@ -107,18 +112,32 @@ graph.run('''
         game.awayPostWinProb = toFloat(g.away_post_win_prob),
         game.excitementIndex = toFloat(g.excitement_index),
         week.weekNbr = g.week,
-        week.season = g.season
-''', json=games)
+        week.season = g.season,
+        rAway.homeOrAway = 'away',
+        rAway.teamScore = g.away_points,
+        rAway.opponentScore = g.home_points,
+        rHome.homeOrAway = 'home',
+        rHome.teamScore = g.home_points,
+        rHome.opponentScore = g.away_points
+'''
 
-graph.run('''
+home_stadium_cypher = '''
+    MATCH (venue:Venue)-[:HOSTED_GAME]->(game:Game)-[:HAS_PARTICIPANT_TEAM {homeOrAway: 'home'}]->(team:Team)
+    WHERE game.isNeutral = false
+    MERGE (team)-[:HAS_HOME_STADIUM]->(venue)
+'''
+
+drives_cypher = '''
     WITH $json as data
     UNWIND data as d
-    MERGE (drive:Drive {driveId: toInteger(d.id)})
-    SET drive.offense = d.offense,
-        drive.offenseConference = d.offense_conference,
-        drive.defense = d.defense,
+    MERGE (drive:Drive {driveId: toInteger(d.id), gameId: d.game_id, offense: d.offense, defense: d.defense})
+    MERGE (offense:Team {school: d.offense})
+    MERGE (defense:Team {school: d.defense})
+    MERGE (game:Game {gameId: d.game_id})
+    MERGE (game)-[:HAS_DRIVE]->(drive)
+    MERGE (offense)-[:ON_OFFENSE_DRIVE]->(drive)<-[:ON_DEFENSE_DRIVE]-(defense)
+    SET drive.offenseConference = d.offense_conference,
         drive.defenseConference = d.defense_conference,
-        drive.gameId = d.game_id,
         drive.scoring = d.scoring,
         drive.startPeriod = d.start_period,
         drive.startYardline = d.start_yardline,
@@ -129,55 +148,34 @@ graph.run('''
         drive.plays = d.plays,
         drive.yards = d.yards,
         drive.driveResult = d.drive_result
-''', json=drives)
+'''
 
-graph.run('''
+teams_conferences_cypher = '''
     MATCH (conference:Conference)
     MATCH (team:Team)
-    WHERE conference.name = team.conference
-    MERGE (conference)-[:HAS_MEMBER_TEAM]->(team)
-''')
+    WHERE team.conference = conference.name
+    MERGE (conference)-[:HAS_MEMBER_SCHOOL]->(team)
+'''
 
-graph.run('''
-    MATCH (season:Season)
-    MATCH (week:Week)
-    WHERE season.seasonId = week.season
-    MERGE (season)-[:HAS_WEEK]->(week)
-''')
-
-graph.run('''
-    MATCH (week:Week)
-    MATCH (game:Game)
-    WHERE week.weekId = game.weekId
-    MERGE (week)-[:HAS_GAME]->(game)
-''')
-
-graph.run('''
-    MATCH (game:Game)
-    MATCH (home:Team)
-    MATCH (away:Team)
-    WHERE game.homeTeam = home.school and game.awayTeam = away.school
-    MERGE (away)<-[:HAS_PARTICIPANT_TEAM {homeOrAway: 'away'}]-(game)-[:HAS_PARTICIPANT_TEAM {homeOrAway: 'home'}]->(home)
-''')
-
-graph.run('''
-    MATCH (game:Game)
-    MATCH (drive:Drive)
-    WHERE game.gameId = drive.gameId
-    MERGE (game)-[:HAS_DRIVE]->(drive)
-''')
-
-graph.run('''
+game_venue_cypher = '''
     MATCH (venue:Venue)
     MATCH (game:Game)
     WHERE venue.venueId = game.venueId
     MERGE (venue)-[:HOSTED_GAME]->(game)
-''')
+'''
 
-graph.run('''
-    MATCH (drive:Drive)
-    MATCH (offense:Team)
-    MATCH (defense:Team)
-    WHERE drive.offense = offense.school and drive.defense = defense.school
-    MERGE (offense)-[:ON_OFFENSE_DRIVE]->(drive)<-[:ON_DEFENSE_DRIVE]-(defense)
-''')
+graph.run(conferences_cypher, json=conferences)
+
+graph.run(teams_cypher, json=teams)
+
+graph.run(venues_cypher, json=venues)
+
+graph.run(games_cypher, json=games)
+
+graph.run(drives_cypher, json=drives)
+
+graph.run(teams_conferences_cypher)
+
+graph.run(home_stadium_cypher)
+
+graph.run(game_venue_cypher)
